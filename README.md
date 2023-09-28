@@ -241,6 +241,16 @@ TBD
 	    <td><a href="https://github.com/Rudrabha/Wav2Lip/tree/master/evaluation">wav2lip</a></td>
 	</tr >
     <tr>
+	    <td >LSE-C&#8593;</td>
+	    <td>Lip Sync Error - Confidence</td>
+	    <td><a href="https://github.com/Rudrabha/Wav2Lip/tree/master/evaluation">wav2lip</a></td>
+	</tr >
+    <tr>
+	    <td >LSE-D&#8595;</td>
+	    <td>Lip Sync Error - Distance</td>
+	    <td><a href="https://github.com/Rudrabha/Wav2Lip/tree/master/evaluation">wav2lip</a></td>
+	</tr >
+    <tr>
 	    <th colspan="3"><center>Image Quality (identity preserving)</center></th>
 	</tr >
 	<tr>
@@ -249,12 +259,67 @@ TBD
 	    <td>Code/Paper</td>
 	</tr >
     <tr>
+	    <td >MAE&#8595;</td>
+	    <td>Mean Absolute Error metric for image</td>
+	    <td><a href="https://github.com/open-mmlab/mmagic/blob/a2135e11f3d66c1a2828c71221ed5e5699ecd919/docs/en/user_guides/metrics.md">mmagic</a></td>
+	</tr >
+    <tr>
+	    <td >MSE&#8595;</td>
+	    <td>Mean Squared Error metric for image</td>
+	    <td><a href="https://github.com/open-mmlab/mmagic/blob/a2135e11f3d66c1a2828c71221ed5e5699ecd919/docs/en/user_guides/metrics.md">mmagic</a></td>
+	</tr >
+    <tr>
+	    <td >PSNR&#8593;</td>
+	    <td>Peak Signal-to-Noise Ratio</td>
+	    <td><a href="https://github.com/open-mmlab/mmagic/blob/a2135e11f3d66c1a2828c71221ed5e5699ecd919/docs/en/user_guides/metrics.md">mmagic</a></td>
+	</tr >
+    <tr>
+	    <td >SSIM&#8595;</td>
+	    <td>Structural similarity for image</td>
+	    <td><a href="https://github.com/open-mmlab/mmagic/blob/a2135e11f3d66c1a2828c71221ed5e5699ecd919/docs/en/user_guides/metrics.md">mmagic</a></td>
+	</tr >
+    <tr>
+	    <td >FID&#8595;</td>
+	    <td>Frchet Inception Distance</td>
+	    <td><a href="https://github.com/open-mmlab/mmagic/blob/a2135e11f3d66c1a2828c71221ed5e5699ecd919/docs/en/user_guides/metrics.md">mmagic</a></td>
+	</tr >
+    <tr>
+	    <td >IS&#8593;</td>
+	    <td>Inception score </td>
+	    <td><a href="https://github.com/open-mmlab/mmagic/blob/a2135e11f3d66c1a2828c71221ed5e5699ecd919/docs/en/user_guides/metrics.md">mmagic</a></td>
+	</tr >
+    <tr>
+	    <td >NIQE&#8595;</td>
+	    <td>Natural Image Quality Evaluator metric</td>
+	    <td><a href="https://github.com/open-mmlab/mmagic/blob/a2135e11f3d66c1a2828c71221ed5e5699ecd919/docs/en/user_guides/metrics.md">mmagic</a></td>
+	</tr >
+    <tr>
+	    <td >CSIM&#8593;</td>
+	    <td>The cosine similarity of identity embedding</td>
+	    <td><a href="https://github.com/deepinsight/insightface/issues/903">InsightFace</a></td>
+	</tr >
+    <tr>
+	    <td >CPBD&#8593;</td>
+	    <td>The cumulative probability blur detection</td>
+	    <td><a href="https://pypi.org/project/cpbd/">python-cpbd</a></td>
+	</tr >
+    <tr>
 	    <th colspan="3"><center>Diversity</center></th>
 	</tr >
 	<tr>
 	    <td >Metric name</td>
 	    <td>Description</td>
 	    <td>Code/Paper</td>
+	</tr >
+    <tr>
+	    <td >Diversity of head motions&#8593;</td>
+	    <td>A standard deviation of the head motion feature embeddings extracted from the generated frames using Hopenet (Ruiz et al., 2018) is calculated</td>
+	    <td><a href="https://arxiv.org/pdf/2211.12194.pdf">SadTalker</a></td>
+	</tr >
+     <tr>
+	    <td >Beat Align Score&#8593;</td>
+	    <td>The alignment of the audio and generated head motions is calculated in Bailando (Siyao et al., 2022)</td>
+	    <td><a href="https://arxiv.org/pdf/2211.12194.pdf">SadTalker</a></td>
 	</tr >
 </table>
 
@@ -267,3 +332,5 @@ TBD
 4. OpenFace: a facial behavior analysis toolkit https://github.com/TadasBaltrusaitis/OpenFace
 5. autocrop: Automatically detects and crops faces from batches of pictures https://github.com/leblancfg/autocrop
 6. OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation https://github.com/CMU-Perceptual-Computing-Lab/openpose
+7. GFPGAN: Practical Algorithm for Real-world Face Restoration https://github.com/TencentARC/GFPGAN
+8. CodeFormer: Robust Blind Face Restoration https://github.com/sczhou/CodeFormer
