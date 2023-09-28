@@ -15,9 +15,20 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - [x] Datasets and metrics
 
 ## Researchers and labs
-1. [Xiaodong Cun @ Tencent AI Lab](https://vinthony.github.io/academic/): 
-   - Talking-face synthesis ([StyleHEAT-ECCV'22](https://arxiv.org/abs/2203.04036), [VideoReTalking-SIGGRAPH Asia'22](https://arxiv.org/abs/2211.14758), [ToolTalking-ICCV'23](https://arxiv.org/abs/2308.12866), [DPE-CVPR'23](https://arxiv.org/abs/2301.06281), [CodeTalker-CVPR'23](https://arxiv.org/abs/2301.06281), [SadTalker-CVPR'23](https://arxiv.org/abs/2211.12194)) 
-   - Talking-body synthesis ([LivelySpeaker-ICCV'23](https://arxiv.org/abs/2306.00926)).
+1. [Deep Imagination Research (DIR) group @ NVIDIA](https://arunmallya.github.io/)
+   - Neural rendering models for human generation: [vid2vid NeurIPS'18](https://tcwang0509.github.io/vid2vid/), [fs-vid2vid NeurIPS'19](https://nvlabs.github.io/few-shot-vid2vid/);
+   - Talking-face synthesis: [face-vid2vid CVPR'21](https://nvlabs.github.io/face-vid2vid/), [Implicit NeurIPS'22](https://research.nvidia.com/labs/dir/implicit_warping/), [SPACE ICCV'23](https://research.nvidia.com/labs/dir/space/);
+   - Talking-body synthesis: [DreamPose ICCV'23](https://grail.cs.washington.edu/projects/dreampose/);
+   - Face enhancement (relighting, restoration, etc): [Lumos SIGGRAPH Asia 2022](https://research.nvidia.com/labs/dir/lumos/);
+2. [Aliaksandr Siarohin @ Snap Research](https://research.snap.com/team/team-member.html#aliaksandr-siarohin)
+   1. Neural rendering models for human generation (focus on flow-based generative models): [Unsupervised-Volumetric-Animation CVPR'23](https://github.com/snap-research/unsupervised-volumetric-animation), [3DAvatarGAN CVPR'23](https://arxiv.org/abs/2301.02700), [3D-SGAN ECCV'22](https://arxiv.org/abs/2112.01422), [Articulated-Animation CVPR'21](https://arxiv.org/abs/2104.11280), [Monkey-Net CVPR'19](https://arxiv.org/abs/1812.08861), [FOMM NeurIPS'19](http://papers.nips.cc/paper/8935-first-order-motion-model-for-image-animation);
+3. [Ziwei Liu @ NTU](https://liuziwei7.github.io/index.html)
+   - Talking-face synthesis: [StyleSync CVPR'23](https://hangz-nju-cuhk.github.io/projects/StyleSync), [AV-CAT SIGGRAPH Asia 2022](https://hangz-nju-cuhk.github.io/projects/AV-CAT), [StyleGANX ICCV'23](https://www.mmlab-ntu.com/project/styleganex/), [StyleSwap ECCV'22](https://hangz-nju-cuhk.github.io/projects/StyleSwap), [PC-AVS CVPR'21](https://hangz-nju-cuhk.github.io/projects/PC-AVS), [Speech2Talking-Face IJCAI'21](https://www.ijcai.org/proceedings/2021/0141.pdf), [VToonify SIGGRAPH Asia 2022](https://www.youtube.com/watch?v=0_OmVhDgYuY);
+   - Talking-body synthesis: [MotionDiffuse arXiv'22](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html);
+   - Face enhancement (relighting, restoration, etc): [Relighting4D ECCV'22](https://www.youtube.com/watch?v=NayAw89qtsY);
+4. [Xiaodong Cun @ Tencent AI Lab](https://vinthony.github.io/academic/): 
+   - Talking-face synthesis: [StyleHEAT ECCV'22](https://arxiv.org/abs/2203.04036), [VideoReTalking SIGGRAPH Asia'22](https://arxiv.org/abs/2211.14758), [ToolTalking ICCV'23](https://arxiv.org/abs/2308.12866), [DPE CVPR'23](https://arxiv.org/abs/2301.06281), [CodeTalker CVPR'23](https://arxiv.org/abs/2301.06281), [SadTalker CVPR'23](https://arxiv.org/abs/2211.12194);
+   - Talking-body synthesis: [LivelySpeaker ICCV'23](https://arxiv.org/abs/2306.00926);
 
 ## Papers
 Example: [Conference'year] [Title](https://github.com/Jason-cs18/awesome-avatar), First-author Affiliation, [ProjectPage](https://github.com/Jason-cs18/awesome-avatar), [Code](https://github.com/Jason-cs18/awesome-avatar)
