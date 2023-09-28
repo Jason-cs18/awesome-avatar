@@ -139,7 +139,7 @@ Example: [Conference'year] [Title](https://github.com/Jason-cs18/awesome-avatar)
         <td>102k</td> 
 	</tr >
     <tr>
-	    <td > <a href="https://github.com/SpringHuo/MAVD"><font color="red">MAVD</font></a></td>
+	    <td > <a href="https://github.com/SpringHuo/MAVD"><b>MAVD</b></a></td>
 	    <td>Lab</td>
 	    <td>2023</td>
         <td>1920x1080</td>
@@ -166,7 +166,7 @@ Example: [Conference'year] [Title](https://github.com/Jason-cs18/awesome-avatar)
         <td></td> 
 	</tr >
     <tr>
-	    <td ><a href="http://cnceleb.org/"><font color="red">CN-CVS</font></a></td>
+	    <td ><a href="http://cnceleb.org/"><b>CN-CVS</b></a></td>
 	    <td>Wild</td>
 	    <td>2023</td>
         <td></td>
