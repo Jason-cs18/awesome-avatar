@@ -145,7 +145,7 @@ Example: [Conference'year] [Title](https://github.com/Jason-cs18/awesome-avatar)
         <td>1920x1080</td>
         <td>64</td>
         <td>24 hours</td>
-        <td>Sentence</td> 
+        <td>12k</td> 
 	</tr >
     <tr>
 	    <td ><a href="http://cnceleb.org/">CN-Celeb</a></td>
@@ -211,7 +211,53 @@ Example: [Conference'year] [Title](https://github.com/Jason-cs18/awesome-avatar)
 TBD
 ## Metrics
 ### Talking-face
-XXX
+<table>
+	<tr>
+	    <th colspan="3"><center>Lip-Sync</center></th>
+	</tr >
+	<tr>
+	    <td >Metric name</td>
+	    <td>Description</td>
+	    <td>Code/Paper</td>
+	</tr >
+    <tr>
+	    <td >LMD&#8595;</td>
+	    <td>Mouth landmark distance</td>
+	    <td></td>
+	</tr >
+    <tr>
+	    <td >LMD&#8595;</td>
+	    <td>Mouth landmark distance</td>
+	    <td></td>
+	</tr >
+    <tr>
+	    <td >MA&#8593;</td>
+	    <td>The Insertion-over-Union (IoU) for the overlap between the predicted mouth area and the ground truth area</td>
+	    <td></td>
+	</tr >
+    <tr>
+	    <td >Sync&#8593;</td>
+	    <td>The confidence score from SyncNet (Sync)</td>
+	    <td><a herf="https://github.com/Rudrabha/Wav2Lip/tree/master/evaluation">wav2lip</a></td>
+	</tr >
+    <tr>
+	    <th colspan="3"><center>Image Quality (identity preserving)</center></th>
+	</tr >
+	<tr>
+	    <td >Metric name</td>
+	    <td>Description</td>
+	    <td>Code/Paper</td>
+	</tr >
+    <tr>
+	    <th colspan="3"><center>Diversity</center></th>
+	</tr >
+	<tr>
+	    <td >Metric name</td>
+	    <td>Description</td>
+	    <td>Code/Paper</td>
+	</tr >
+</table>
+
 ### Talking-body
 TBD
 ## Toolbox
