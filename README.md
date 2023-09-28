@@ -15,14 +15,9 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - [x] Datasets and metrics
 
 ## Researchers and labs
-1. [Xiaodong Cun @ Tencent AI Lab](https://vinthony.github.io/academic/) image/video generation, translation and editing
-     - [ECCV 2022] [StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pretrained StyleGAN](https://arxiv.org/abs/2203.04036)
-     - [SIGGRAPH Asia 2022] [VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild](https://arxiv.org/abs/2211.14758)
-     - [ICCV 2023] [ToonTalker: Cross-Domain Face Reenactment](https://arxiv.org/abs/2308.12866)
-     - [ICCV 2023] [LivelySpeaker: Towards Semantic-aware Co-Speech Gesture Generation](https://arxiv.org/abs/2306.00926)
-     - [CVPR 2023] [DPE: Disentanglement of Pose and Expression for General Video Portrait Editing](https://arxiv.org/abs/2301.06281)
-     - [CVPR 2023] [CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior](https://arxiv.org/abs/2301.06281)
-     - [CVPR 2023] [SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation](https://arxiv.org/abs/2211.12194)
+1. [Xiaodong Cun @ Tencent AI Lab](https://vinthony.github.io/academic/): 
+   - Talking-face synthesis ([StyleHEAT-ECCV'22](https://arxiv.org/abs/2203.04036), [VideoReTalking-SIGGRAPH Asia'22](https://arxiv.org/abs/2211.14758), [ToolTalking-ICCV'23](https://arxiv.org/abs/2308.12866), [DPE-CVPR'23](https://arxiv.org/abs/2301.06281), [CodeTalker-CVPR'23](https://arxiv.org/abs/2301.06281), [SadTalker-CVPR'23](https://arxiv.org/abs/2211.12194)) 
+   - Talking-body synthesis ([LivelySpeaker-ICCV'23](https://arxiv.org/abs/2306.00926)).
 
 ## Papers
 Example: [Conference'year] [Title](https://github.com/Jason-cs18/awesome-avatar), First-author Affiliation, [ProjectPage](https://github.com/Jason-cs18/awesome-avatar), [Code](https://github.com/Jason-cs18/awesome-avatar)
