@@ -7,7 +7,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 #### TO DO LIST
 
 - [ ] Main paper list
-- [x] Key researchers list
+- [x] Researchers list
 - [ ] Toolbox for avatar
 - [ ] Add paper link
 - [ ] Add paper notes
@@ -22,7 +22,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
    - Talking-body synthesis: [DreamPose ICCV'23](https://grail.cs.washington.edu/projects/dreampose/);
    - Face enhancement (relighting, restoration, etc): [Lumos SIGGRAPH Asia 2022](https://research.nvidia.com/labs/dir/lumos/);
 2. [Aliaksandr Siarohin @ Snap Research](https://research.snap.com/team/team-member.html#aliaksandr-siarohin)
-   1. Neural rendering models for human generation (focus on flow-based generative models): [Unsupervised-Volumetric-Animation CVPR'23](https://github.com/snap-research/unsupervised-volumetric-animation), [3DAvatarGAN CVPR'23](https://arxiv.org/abs/2301.02700), [3D-SGAN ECCV'22](https://arxiv.org/abs/2112.01422), [Articulated-Animation CVPR'21](https://arxiv.org/abs/2104.11280), [Monkey-Net CVPR'19](https://arxiv.org/abs/1812.08861), [FOMM NeurIPS'19](http://papers.nips.cc/paper/8935-first-order-motion-model-for-image-animation);
+   - Neural rendering models for human generation (focus on flow-based generative models): [Unsupervised-Volumetric-Animation CVPR'23](https://github.com/snap-research/unsupervised-volumetric-animation), [3DAvatarGAN CVPR'23](https://arxiv.org/abs/2301.02700), [3D-SGAN ECCV'22](https://arxiv.org/abs/2112.01422), [Articulated-Animation CVPR'21](https://arxiv.org/abs/2104.11280), [Monkey-Net CVPR'19](https://arxiv.org/abs/1812.08861), [FOMM NeurIPS'19](http://papers.nips.cc/paper/8935-first-order-motion-model-for-image-animation);
 3. [Ziwei Liu @ NTU](https://liuziwei7.github.io/index.html)
    - Talking-face synthesis: [StyleSync CVPR'23](https://hangz-nju-cuhk.github.io/projects/StyleSync), [AV-CAT SIGGRAPH Asia 2022](https://hangz-nju-cuhk.github.io/projects/AV-CAT), [StyleGANX ICCV'23](https://www.mmlab-ntu.com/project/styleganex/), [StyleSwap ECCV'22](https://hangz-nju-cuhk.github.io/projects/StyleSwap), [PC-AVS CVPR'21](https://hangz-nju-cuhk.github.io/projects/PC-AVS), [Speech2Talking-Face IJCAI'21](https://www.ijcai.org/proceedings/2021/0141.pdf), [VToonify SIGGRAPH Asia 2022](https://www.youtube.com/watch?v=0_OmVhDgYuY);
    - Talking-body synthesis: [MotionDiffuse arXiv'22](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html);
@@ -65,3 +65,11 @@ xxx
 ## Metrics
 ### Talking-face
 ### Talking-body
+
+## Toolbox
+1. A general toolbox for AIGC, including common metrics and models https://github.com/open-mmlab/mmagic
+2. face3d: Python tools for processing 3D face https://github.com/yfeng95/face3d
+3. 3DMM model fitting using Pytorch https://github.com/ascust/3DMM-Fitting-Pytorch
+4. OpenFace: a facial behavior analysis toolkit https://github.com/TadasBaltrusaitis/OpenFace
+5. autocrop: Automatically detects and crops faces from batches of pictures https://github.com/leblancfg/autocrop
+6. OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation https://github.com/CMU-Perceptual-Computing-Lab/openpose
