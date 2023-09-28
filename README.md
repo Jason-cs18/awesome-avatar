@@ -7,7 +7,8 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 #### TO DO LIST
 
 - [ ] Main paper list
-- [ ] Key researchers list
+- [x] Key researchers list
+- [ ] Toolbox for avatar
 - [ ] Add paper link
 - [ ] Add paper notes
 - [ ] Add codes if have
