@@ -6,13 +6,13 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 #### TO DO LIST
 
-- [ ] Main paper list
+- [x] Main paper list
 - [x] Researchers list
 - [x] Toolbox for avatar
-- [ ] Add paper link
+- [x] Add paper link
 - [ ] Add paper notes
-- [ ] Add codes if have
-- [ ] Add project page if have
+- [x] Add codes if have
+- [x] Add project page if have
 - [x] Datasets and metrics
 
 ## Researchers and labs
