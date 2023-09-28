@@ -238,7 +238,7 @@ TBD
     <tr>
 	    <td >Sync&#8593;</td>
 	    <td>The confidence score from SyncNet (Sync)</td>
-	    <td><a herf="https://github.com/Rudrabha/Wav2Lip/tree/master/evaluation">wav2lip</a></td>
+	    <td><a href="https://github.com/Rudrabha/Wav2Lip/tree/master/evaluation">wav2lip</a></td>
 	</tr >
     <tr>
 	    <th colspan="3"><center>Image Quality (identity preserving)</center></th>
