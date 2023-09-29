@@ -1,5 +1,5 @@
 ## SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation
-To generate diverse and stylized talking-face videos, a VAE-based pose net is proposed to estimate real head motions from audio directly.
+A VAE-based posenet is integrated with a new talking-face generation pipeline SadTalker to generate diverse head motions on talking-face videos.
 
 ![SadTalker overview](https://github.com/Jason-cs18/awesome-avatar/blob/main/assets/sadtalker.png "SadTalker overview")
 
