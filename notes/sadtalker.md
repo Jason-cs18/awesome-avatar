@@ -3,9 +3,11 @@ A VAE-based posenet is integrated with a new talking-face generation pipeline Sa
 
 ![SadTalker overview](https://github.com/Jason-cs18/awesome-avatar/blob/main/assets/sadtalker.png "SadTalker overview")
 
-**What's new:** Wenxuan Zhang from xi'an jiaotong university and researchers from Tencent AI Lab proposed a new generation pipeline named SadTalker to synthesis diverse and stylized talking-face videos.
+**What's new:** Wenxuan Zhang from xi'an jiaotong university and researchers from Tencent AI Lab released a new generation pipeline named SadTalker to synthesis diverse and stylized talking-face videos.
 
-**Key insights:** Previous works leverages xxx to achieve xxx but they are limited by xxx. To overcome xxx, authors designed xxx.
+**Key insights:** Previous works leveraged facial landmarks and keypoints as the intermediate facial representation and were hard to disentangle expression and motion learning. To overcome this issue, SadTalker leveraged a explict 3D facial model to decouple representations of expression and head motions. To achieve this goal, the authors designed PoseVAE and ExpNet to learn audio2expression and audio2pose respectively.
+
+<!-- Previous works leverages xxx to achieve xxx but they are limited by xxx. To overcome xxx, authors designed xxx. -->
 
 **How it works:** The authors designed three-stage pipeline named xxx to generate xxx. In the first, xxx-1. In the second, xxx-2. In the end, xxx-3.    
 - xxx-1 is trained with xxx. Compared with existing works, xxx is better than xxx. It is because that xxx.
