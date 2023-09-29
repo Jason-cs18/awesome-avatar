@@ -1,9 +1,9 @@
 ## SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation
 To generate diverse and stylized talking-face videos, a VAE-based pose net is proposed to estimate real head motions from audio directly.
 
-![MarineGEO circle logo](https://github.com/Jason-cs18/awesome-avatar/blob/main/assets/sadtalker.png "MarineGEO logo")
+![SadTalker overview](https://github.com/Jason-cs18/awesome-avatar/blob/main/assets/sadtalker.png "SadTalker overview")
 
-**What's new:** The authors (xxx and xxx from xxx) proposed xxx to address/achieve xxx.
+**What's new:** Wenxuan Zhang from xi'an jiaotong university and researchers from Tencent AI Lab proposed a new generation pipeline named SadTalker to synthesis diverse and stylized talking-face videos.
 
 **Key insights:** Previous works leverages xxx to achieve xxx but they are limited by xxx. To overcome xxx, authors designed xxx.
 
