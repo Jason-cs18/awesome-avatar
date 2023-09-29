@@ -104,8 +104,8 @@ Example: [Conference'year] [Title](https://github.com/Jason-cs18/awesome-avatar)
 	    <td>Wild</td>
 	    <td>2020</td>
         <td>720p~1080p</td>
-        <td>300+ hours</td>
-        <td>15.8</td>
+        <td>300+</td>
+        <td>15.8 hours</td>
         <td></td> 
 	</tr >
     <tr>
