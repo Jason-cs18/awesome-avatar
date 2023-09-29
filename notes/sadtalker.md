@@ -5,19 +5,19 @@ A VAE-based posenet is integrated with a new talking-face generation pipeline Sa
 
 **What's new:** Wenxuan Zhang from Xi'an Jiaotong University and researchers from Tencent AI Lab released a new generation pipeline named SadTalker to synthesis diverse and stylized talking-face videos.
 
-**Key insights:** Previous works leveraged facial landmarks and keypoints as the intermediate facial representation and were hard to disentangle expression and motion learning. To overcome this issue, SadTalker leveraged a explict 3D face model to decouple representations of expression and head motions. To achieve this goal, the authors designed PoseVAE and ExpNet to learn audio2expression and audio2pose respectively.
+**Key insights:** Previous works leveraged facial landmarks and keypoints as the intermediate facial representation and were hard to disentangle expression and motion learning. To overcome this issue, SadTalker leveraged a explict 3D face model to decouple representations of expression and head motions. To this end, they designed PoseVAE and ExpNet to learn audio2expression and audio2pose respectively.
 
 <!-- Previous works leverages xxx to achieve xxx but they are limited by xxx. To overcome xxx, authors designed xxx. -->
 
 **How it works:** As shown in the Figure 2, the authors designed a three-stage inference pipeline to synthesize stylized talking-face videos. 
 - They first levraged the recent single image deep 3D reconstruction method to extract the 3D face model on the target image, which consists of identity coefficients, expression coefficients and head pose (rotation and translation).
-- In the second, they estimated pose and expression coefficients by PoseVAE and ExpNet respectively. Afterwards, they got a motion flow on 3D facial space. During training, the authors used the reconstruction loss and distillation loss to encourage ExpNet to learn the accurate mapping on the whole facial motion and the lip moion resepectively. Similarly, they used the reconstruction loss and KL-divergence loss to encourage PoseVAE to learn accurate and diverse head motions resepectively.
-- In the third, they leveraged a modified face vid2vid model to render real face from the estimated 3D facial motion. In training, they first trained face vid2vid in a self-supervised fashion. Then they fine-tune the customized mappingNet in a reconstruction style.
+- In the second, they estimated pose and expression coefficients by PoseVAE and ExpNet respectively. Afterwards, they got a motion flow on 3D facial space. In training, the authors used the reconstruction loss and distillation loss to encourage ExpNet to learn the accurate mapping on the whole facial motion and the lip moion resepectively. Similarly, the reconstruction loss and KL-divergence loss have been used to encourage PoseVAE to learn accurate and diverse head motions resepectively.
+- In the third, they leveraged a modified face vid2vid model to render real face from the estimated 3D facial motion. In training, they first trained face vid2vid in a self-supervised fashion. Then they fine-tuned the customized mappingNet in a reconstruction style.
 <!-- - they trained ExpNet with the reconstruction loss and distillation loss. The reconstruction loss encouraged the model to learn the accurate mapping in explicit facial motion space and the distillation loss encouraged the model to learn the accurate lip-sync. Similarly, authors trained PoseVAE with the    -->
 
 *Note: Training details are introduced in [the supplementary material](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Zhang_SadTalker_Learning_Realistic_CVPR_2023_supplemental.pdf).*
 
-**Results:** The authors trained SadTalker on VoxCeleb1 with 8 NVIDIA A100 GPUs and tested it on HDTF dataset. Compared with other competitors, it generated a better head motion and more realistic face. But its lip-sync is bad than many other methods.
+**Results:** The authors trained SadTalker on VoxCeleb1 with 8 NVIDIA A100 GPUs and tested it on HDTF dataset. Compared with other competitors, it generated a better head motion and more realistic face. But its lip-sync is bad than other methods.
 
 <!-- The authors evaluated xxx on xxx. Compared with xxx, xxx is better on xxx. But it is worse than xxx on xxx. It is because that xxx. -->
 
