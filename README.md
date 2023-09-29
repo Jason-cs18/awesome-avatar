@@ -10,7 +10,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - [x] Researchers list
 - [x] Toolbox for avatar
 - [x] Add paper link
-- [ ] Add paper notes
+- [ ] Add [paper notes](https://github.com/Jason-cs18/awesome-avatar/tree/main/notes)
 - [x] Add codes if have
 - [x] Add project page if have
 - [x] Datasets and metrics
