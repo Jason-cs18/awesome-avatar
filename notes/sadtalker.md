@@ -25,6 +25,6 @@ A VAE-based posenet is integrated with a new talking-face generation pipeline Sa
 
 <!-- This work reveals that xxx but xxx. Such insights deepen our understanding of xxx and can help practitioners explain their outputs. -->
 
-**We're thinking:** Instead of using Wav2Lip as a techer model in ExpNet training, can we use Wav2Lip as ExpNet naively? The 3D-aware face render should have few-shot learning capabilities as same as face vid2vid. With this, we can train the render with 10~30s video clips to improve lip-sync results in further.
+**We're thinking:** Instead of using Wav2Lip as a techer model in ExpNet training, can we use Wav2Lip as ExpNet naively? The 3D-aware face render should have few-shot learning capabilities as same as face vid2vid. With this, we can fine-tune the render with 10~30s video clips of a target person to improve lip-sync results in further.
 
 *Note: Few-shot learning is widely studied in deep generation models. Details can refer to [fs-vid2vid, NeurIPS'19, NVIDIA](https://nvlabs.github.io/few-shot-vid2vid/) and [face-few-shot, ICCV'19, Samsung AI](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zakharov_Few-Shot_Adversarial_Learning_of_Realistic_Neural_Talking_Head_Models_ICCV_2019_paper.pdf).*
