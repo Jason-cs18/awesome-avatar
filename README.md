@@ -14,22 +14,29 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - [x] Add codes if have
 - [x] Add project page if have
 - [x] Datasets and metrics
+- [x] Related links
 
 ## Researchers and labs
-1. [Deep Imagination Research (DIR) group @ NVIDIA](https://arunmallya.github.io/)
-   - Neural rendering models for human generation: [vid2vid NeurIPS'18](https://tcwang0509.github.io/vid2vid/), [fs-vid2vid NeurIPS'19](https://nvlabs.github.io/few-shot-vid2vid/);
-   - Talking-face synthesis: [face-vid2vid CVPR'21](https://nvlabs.github.io/face-vid2vid/), [Implicit NeurIPS'22](https://research.nvidia.com/labs/dir/implicit_warping/), [SPACE ICCV'23](https://research.nvidia.com/labs/dir/space/);
+1. [NVIDIA Research](https://www.nvidia.com/en-us/research/)
+   - Neural rendering models for human generation: [vid2vid NeurIPS'18](https://tcwang0509.github.io/vid2vid/), [fs-vid2vid NeurIPS'19](https://nvlabs.github.io/few-shot-vid2vid/), [EG3D CVPR'22](https://github.com/NVlabs/eg3d);
+   - Talking-face synthesis: [face-vid2vid CVPR'21](https://nvlabs.github.io/face-vid2vid/), [Implicit NeurIPS'22](https://research.nvidia.com/labs/dir/implicit_warping/), [SPACE ICCV'23](https://research.nvidia.com/labs/dir/space/), [One-shot
+Neural Head Avatar arXiv'23](https://research.nvidia.com/labs/lpr/one-shot-avatar/);
    - Talking-body synthesis: [DreamPose ICCV'23](https://grail.cs.washington.edu/projects/dreampose/);
-   - Face enhancement (relighting, restoration, etc): [Lumos SIGGRAPH Asia 2022](https://research.nvidia.com/labs/dir/lumos/);
+   - Face enhancement (relighting, restoration, etc): [Lumos SIGGRAPH Asia 2022](https://research.nvidia.com/labs/dir/lumos/), [RANA ICCV'23](https://nvlabs.github.io/RANA/);
+   - Authorized use of synthetic videos: [Avatar Fingerprinting arXiv'23](https://research.nvidia.com/labs/nxp/avatar-fingerprinting/);
 2. [Aliaksandr Siarohin @ Snap Research](https://research.snap.com/team/team-member.html#aliaksandr-siarohin)
    - Neural rendering models for human generation (focus on flow-based generative models): [Unsupervised-Volumetric-Animation CVPR'23](https://github.com/snap-research/unsupervised-volumetric-animation), [3DAvatarGAN CVPR'23](https://arxiv.org/abs/2301.02700), [3D-SGAN ECCV'22](https://arxiv.org/abs/2112.01422), [Articulated-Animation CVPR'21](https://arxiv.org/abs/2104.11280), [Monkey-Net CVPR'19](https://arxiv.org/abs/1812.08861), [FOMM NeurIPS'19](http://papers.nips.cc/paper/8935-first-order-motion-model-for-image-animation);
-3. [Ziwei Liu @ NTU](https://liuziwei7.github.io/index.html)
+3. [Ziwei Liu @ Nanyang Technological University](https://liuziwei7.github.io/index.html)
    - Talking-face synthesis: [StyleSync CVPR'23](https://hangz-nju-cuhk.github.io/projects/StyleSync), [AV-CAT SIGGRAPH Asia 2022](https://hangz-nju-cuhk.github.io/projects/AV-CAT), [StyleGANX ICCV'23](https://www.mmlab-ntu.com/project/styleganex/), [StyleSwap ECCV'22](https://hangz-nju-cuhk.github.io/projects/StyleSwap), [PC-AVS CVPR'21](https://hangz-nju-cuhk.github.io/projects/PC-AVS), [Speech2Talking-Face IJCAI'21](https://www.ijcai.org/proceedings/2021/0141.pdf), [VToonify SIGGRAPH Asia 2022](https://www.youtube.com/watch?v=0_OmVhDgYuY);
    - Talking-body synthesis: [MotionDiffuse arXiv'22](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html);
    - Face enhancement (relighting, restoration, etc): [Relighting4D ECCV'22](https://www.youtube.com/watch?v=NayAw89qtsY);
 4. [Xiaodong Cun @ Tencent AI Lab](https://vinthony.github.io/academic/): 
    - Talking-face synthesis: [StyleHEAT ECCV'22](https://arxiv.org/abs/2203.04036), [VideoReTalking SIGGRAPH Asia'22](https://arxiv.org/abs/2211.14758), [ToolTalking ICCV'23](https://arxiv.org/abs/2308.12866), [DPE CVPR'23](https://arxiv.org/abs/2301.06281), [CodeTalker CVPR'23](https://arxiv.org/abs/2301.06281), [SadTalker CVPR'23](https://arxiv.org/abs/2211.12194);
    - Talking-body synthesis: [LivelySpeaker ICCV'23](https://arxiv.org/abs/2306.00926);
+<!-- 5. [Gordon Wetzstein @ Stanford University](https://stanford.edu/~gordonwz/):
+   - 3D face models (*e.g.,* 3DMM): [SSIF SIGGRAPH'23](https://research.nvidia.com/labs/toronto-ai/ssif/)  -->
+5. Max Planck Institute for Informatics:
+    - 3D face models (*e.g.,* 3DMM): [FLAME SIGGRAPH Asia 2017](https://flame.is.tue.mpg.de/);
 
 ## Papers
 Example: [Conference'year] [Title](https://github.com/Jason-cs18/awesome-avatar), First-author Affiliation, [ProjectPage](https://github.com/Jason-cs18/awesome-avatar), [Code](https://github.com/Jason-cs18/awesome-avatar)
@@ -334,3 +341,6 @@ TBD
 6. OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation https://github.com/CMU-Perceptual-Computing-Lab/openpose
 7. GFPGAN: Practical Algorithm for Real-world Face Restoration https://github.com/TencentARC/GFPGAN
 8. CodeFormer: Robust Blind Face Restoration https://github.com/sczhou/CodeFormer
+## Related Links
+If you are interested in avatar and digital human, we would also like to recommend you to check out other related collections:
+- awesome digital human https://github.com/weihaox/awesome-digital-human
