@@ -1,11 +1,11 @@
 # ICCV'23, Oct 4-6, 2023
-In this page, we provide a short review of recent advances on the digital human, including 3D face reconstruction, talking-face synthesis, talking-body synthesis, and talking-face video editing.
+In this page, we provide a short review of recent advances (21 papers) on the digital human, including 3D face reconstruction, talking-face synthesis, talking-body synthesis, and talking-face video editing.
 
 ## Workshops and Tutorials
 1. To NeRF or not to NeRF: 
 A View Synthesis Challenge for Human Heads https://sites.google.com/view/vschh/home
 2. The 11th IEEE International Workshop on Analysis and Modeling of Faces and Gestures https://web.northeastern.edu/smilelab/amfg2023/
-## 3D Face Reconstruction
+## 3D Face Reconstruction (3)
 
 ![](https://project-hiface.github.io/img/detail.gif)
 
@@ -17,10 +17,10 @@ Learning Static and Dynamic Details](https://openaccess.thecvf.com/content/ICCV2
 - [ASM: Adaptive Skinning Model for High-Quality 3D Face Modeling](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_ASM_Adaptive_Skinning_Model_for_High-Quality_3D_Face_Modeling_ICCV_2023_paper.pdf), Tencent AI Lab.
 ## Talking-Face Synthesis
 
-### Metrics and Benchchmarks
+### Metrics and Benchchmarks (1)
 - [On the Audio-visual Synchronization for Lip-to-Speech Synthesis](https://openaccess.thecvf.com/content/ICCV2023/papers/Niu_On_the_Audio-visual_Synchronization_for_Lip-to-Speech_Synthesis_ICCV_2023_paper.pdf), The Hong Kong University of Science and Technology.
 
-### 2D Talking-Face Synthesis
+### 2D Talking-Face Synthesis (11)
 *keywords: emotion, diffusion priors, memory network, StyleGAN2*;
 
 ![](https://github.com/StelaBou/HyperReenact/raw/master/images/architecture.png)
@@ -37,18 +37,18 @@ Learning Static and Dynamic Details](https://openaccess.thecvf.com/content/ICCV2
 Retarget Faces](https://openaccess.thecvf.com/content/ICCV2023/papers/Bounareli_HyperReenact_One-Shot_Reenactment_via_Jointly_Learning_to_Refine_and_Retarget_ICCV_2023_paper.pdf), Kingston University London, [Code](https://github.com/StelaBou/HyperReenact).
 - [MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_MODA_Mapping-Once_Audio-driven_Portrait_Animation_with_Dual_Attentions_ICCV_2023_paper.pdf), International Digital Economy Academy (IDEA), [ProjectPage](https://liuyunfei.net/projects/iccv23-moda/), [Code](https://github.com/DreamtaleCore/MODA).
 - [SPACE: Speech-driven Portrait Animation with Controllable Expression](https://openaccess.thecvf.com/content/ICCV2023/papers/Gururani_SPACE_Speech-driven_Portrait_Animation_with_Controllable_Expression_ICCV_2023_paper.pdf), NVIDIA, [ProjectPage](https://research.nvidia.com/labs/dir/space/).
-### 3D Talking-Face Synthesis
+### 3D Talking-Face Synthesis (1)
 *keywords: efficiency*;
 
 - [Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Efficient_Region-Aware_Neural_Radiance_Fields_for_High-Fidelity_Talking_Portrait_Synthesis_ICCV_2023_paper.html), Beihang University, [Code](https://github.com/Fictionarry/ER-NeRF).
 
-## Talking-Face Video Editing
+## Talking-Face Video Editing (1)
 
 *keywords: GAN inversion, StyleGAN*;
 
 - [RIGID: Recurrent GAN Inversion and Editing of Real Face Videos](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_RIGID_Recurrent_GAN_Inversion_and_Editing_of_Real_Face_Videos_ICCV_2023_paper.pdf), The University of Hong Kong, [ProjectPage](https://cnnlstm.github.io/RIGID/), [Code](https://github.com/cnnlstm/RIGID).
 
-## Talking-Body Synthesis
+## Talking-Body Synthesis (4)
 
 *keywords: continual learning, lively, one-shot*;
 
