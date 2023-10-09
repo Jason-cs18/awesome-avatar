@@ -19,7 +19,7 @@ In this benchmark, we collect 6 videos for English speakers and 3 videos for Chi
 	</tr >
     </tr >
     	<tr>
-	    <td>Obama1.mp4</td>
+	    <td>Obama1_english.mp4</td>
 	    <td><iframe src="https://drive.google.com/file/d/1y6m7zjUHWmL-0huWifD1MEoRrWXY6V5c/preview"></iframe></td>
         <td>03:38.16</td>
         <td>450x450</td>
