@@ -20,54 +20,27 @@ In this benchmark, we collect 4 videos for English speakers and 3 videos for Chi
 >  ├── source image
 >  ├── reference videos
 >  │ ├── [56M] obama1_english.mp4, 03:38.16, 450x450, 46 sentences
->  │ ├── [96M] may_english.mp4, 04:02.97, 512x512, 46 sentences
->  │ ├── [234M] shaheen_english.mp4, 04:28.08, 512x512, 46 sentences
+>  │ ├── [96M] may_english.mp4, 04:02.97, 512x512, 35 sentences
+>  │ ├── [234M] shaheen_english.mp4, 04:28.08, 512x512, 37 sentences
 >  │ ├── [146M] macron_english.mp4, 09:30.94, 512x512, 46 sentences
 > ```
 
 <table>
 	<tr>
 	    <th colspan="4"><center>English Speakers</center></th>
-	<!-- </tr > -->
     	<tr>
-	    <td >obama1_english.mp4</td>
-	    <td>Video Preview</td>
-	    <td>Duration</td>
-        <td>Resolution</td>
-        <td>Sentence</td>
-	</tr >
+	    	<td >obama1_english.mp4</td>
+	    	<td>may_english.mp4</td>
+	    	<td>shaheen_english.mp4</td>
+        	<td>macron_english.mp4</td>
+		</tr >
     </tr >
     	<tr>
-	    <td>obama1_english.mp4</td>
-	    <td><iframe src="https://drive.google.com/file/d/1g-T1nvL0KqBkInIRVSSbOvmC1LiCB36o/preview"></iframe></td>
-        <td>03:38.16</td>
-        <td>450x450</td>
-        <td>46</td>
-	</tr >
-    </tr >
-    	<tr>
-	    <td>may_english.mp4</td>
-	    <td><iframe src="https://drive.google.com/file/d/1g-T1nvL0KqBkInIRVSSbOvmC1LiCB36o/preview"></iframe></td>
-        <td>03:38.16</td>
-        <td>450x450</td>
-        <td>46</td>
-	</tr >
-    </tr >
-    	<tr>
-	    <td>shaheen_english.mp4</td>
-	    <td><iframe src="https://drive.google.com/file/d/1tUU8yRM4mcwEhbuM-rt1MkH-xuYBS2Ar/preview"></iframe></td>
-        <td>03:38.16</td>
-        <td>450x450</td>
-        <td>46</td>
-	</tr >
-    </tr >
-    	<tr>
-	    <td>macron_english.mp4</td>
-	    <td><iframe src="https://drive.google.com/file/d/1jxu5SqluMDHFxT1R7dP1k4uWHHnnG9RK/preview"></iframe></td>
-        <td>03:38.16</td>
-        <td>450x450</td>
-        <td>46</td>
-	</tr >
+	    	<td><iframe src="https://drive.google.com/file/d/1g-T1nvL0KqBkInIRVSSbOvmC1LiCB36o/preview"></iframe></td>
+	    	<td><iframe src="https://drive.google.com/file/d/1g-T1nvL0KqBkInIRVSSbOvmC1LiCB36o/preview"></iframe></td>
+        	<td><iframe src="https://drive.google.com/file/d/1tUU8yRM4mcwEhbuM-rt1MkH-xuYBS2Ar/preview"></iframe></td>
+        	<td><iframe src="https://drive.google.com/file/d/1jxu5SqluMDHFxT1R7dP1k4uWHHnnG9RK/preview"></iframe></td>
+		</tr >
     <tr>
 	    <th colspan="5"><center>Chinese Speakers</center></th>
 	<!-- </tr > -->
