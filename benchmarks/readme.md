@@ -60,7 +60,7 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 - **FID**: Frchet Inception Distance (image quality).
 - **IS**: Inception score (image quality).
 
-Because NeRF based renderers (GeneFace and ER-NeRF) are person-dependent, we train them on the first 3 minutes of marcon and xxx respectively.
+Because NeRF based renderers (GeneFace and ER-NeRF) are person-dependent, we train them on *the first 3 minutes* of marcon and xxx respectively.
 
 <table>
 	<tr>
@@ -90,6 +90,47 @@ Because NeRF based renderers (GeneFace and ER-NeRF) are person-dependent, we tra
 			<td>xxx</td>
         	<td>xxx</td>
 		</tr >
+	<tr>
+	    <th colspan="6"><center>Chinese Speakers</center></th>
+    	<tr>
+	    	<td >Pipeline</td>
+	    	<td>Sync↑</td>
+	    	<td>PSNR↑</td>
+        	<td>SSIM↓</td>
+			<td>FID↓</td>
+        	<td>IS↑</td>
+		</tr >
+    </tr >
+		<tr>
+	    	<td >Wav2Lip</td>
+	    	<td>xxx</td>
+	    	<td>xxx</td>
+        	<td>xxx</td>
+			<td>xxx</td>
+        	<td>xxx</td>
+		</tr >
+		<tr>
+	    	<td >SadTalker</td>
+	    	<td>xxx</td>
+	    	<td>xxx</td>
+        	<td>xxx</td>
+			<td>xxx</td>
+        	<td>xxx</td>
+		</tr >
+</table>
+
+<table>
+	<tr>
+	    <th colspan="6"><center>marcon (English)</center></th>
+    	<tr>
+	    	<td >Pipeline</td>
+	    	<td>Sync↑</td>
+	    	<td>PSNR↑</td>
+        	<td>SSIM↓</td>
+			<td>FID↓</td>
+        	<td>IS↑</td>
+		</tr >
+    </tr >
 		<tr>
 	    	<td >GeneFace</td>
 	    	<td>xxx</td>
@@ -106,6 +147,38 @@ Because NeRF based renderers (GeneFace and ER-NeRF) are person-dependent, we tra
 			<td>xxx</td>
         	<td>xxx</td>
 		</tr >
+	<tr>
+</table>
+
+<table>
+	<tr>
+	    <th colspan="6"><center>xxx (Chinese)</center></th>
+    	<tr>
+	    	<td >Pipeline</td>
+	    	<td>Sync↑</td>
+	    	<td>PSNR↑</td>
+        	<td>SSIM↓</td>
+			<td>FID↓</td>
+        	<td>IS↑</td>
+		</tr >
+    </tr >
+		<tr>
+	    	<td >GeneFace</td>
+	    	<td>xxx</td>
+	    	<td>xxx</td>
+        	<td>xxx</td>
+			<td>xxx</td>
+        	<td>xxx</td>
+		</tr >
+		<tr>
+	    	<td >ER-NeRF</td>
+	    	<td>xxx</td>
+	    	<td>xxx</td>
+        	<td>xxx</td>
+			<td>xxx</td>
+        	<td>xxx</td>
+		</tr >
+	<tr>
 </table>
 
 ### External Links
