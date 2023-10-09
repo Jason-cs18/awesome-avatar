@@ -12,7 +12,7 @@ In this benchmark, we collect 6 videos for English speakers and 3 videos for Chi
 	    <th colspan="4"><center>English Speakers</center></th>
 	</tr >
     	<tr>
-	    <td>Video Name</td>
+	    <td >Video Name</td>
 	    <td>Video Preview</td>
 	    <td>Duration</td>
         <td>Resolution</td>
