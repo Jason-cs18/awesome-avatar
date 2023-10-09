@@ -8,18 +8,29 @@ This repository contains the datasets and testing scripts for talking-face synth
 ### Datasets
 In this benchmark, we collect 4 videos for English speakers and 3 videos for Chinese speakers.
 
-<img src="https://github.com/Jason-cs18/awesome-avatar/blob/main/benchmarks/assets/file_structure.png"/>
+<!-- <img src="https://github.com/Jason-cs18/awesome-avatar/blob/main/benchmarks/assets/file_structure.png"/>
 
-![File Structure](https://github.com/Jason-cs18/awesome-avatar/blob/main/benchmarks/assets/file_structure.png "Magic Gardens")
+![File Structure](https://github.com/Jason-cs18/awesome-avatar/blob/main/benchmarks/assets/file_structure.png "Magic Gardens") -->
 
 <!-- ![](https://github.com/Jason-cs18/awesome-avatar/blob/main/benchmarks/assets/file_structure.png) -->
 
+#### File Structure
+>  ```
+>  ├── driving audios
+>  ├── source image
+>  ├── reference videos
+>  │ ├── [56M] obama1_english.mp4, 03:38.16, 450x450, 46 sentences
+>  │ ├── [96M] may_english.mp4, 04:02.97, 512x512, 46 sentences
+>  │ ├── [234M] shaheen_english.mp4, 04:28.08, 512x512, 46 sentences
+>  │ ├── [146M] macron_english.mp4, 09:30.94, 512x512, 46 sentences
+> ```
+
 <table>
 	<tr>
-	    <th colspan="5"><center>English Speakers</center></th>
+	    <th colspan="4"><center>English Speakers</center></th>
 	<!-- </tr > -->
     	<tr>
-	    <td >Video Name</td>
+	    <td >obama1_english.mp4</td>
 	    <td>Video Preview</td>
 	    <td>Duration</td>
         <td>Resolution</td>
