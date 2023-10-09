@@ -7,6 +7,11 @@ This repository contains the datasets and testing scripts for talking-face synth
 
 ### Datasets
 In this benchmark, we collect 6 videos for English speakers and 3 videos for Chinese speakers.
+
+![File Structure](https://github.com/Jason-cs18/awesome-avatar/blob/main/benchmarks/assets/file_structure.png "Magic Gardens")
+
+<!-- ![](https://github.com/Jason-cs18/awesome-avatar/blob/main/benchmarks/assets/file_structure.png) -->
+
 <table>
 	<tr>
 	    <th colspan="4"><center>English Speakers</center></th>
