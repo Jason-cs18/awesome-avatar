@@ -64,9 +64,15 @@ Because NeRF based renderers (GeneFace and ER-NeRF) are person-dependent, we tra
 
 <table>
 	<tr>
-	    <th colspan="6"><center>English Speakers</center></th>
+	    <th colspan="6"><center>English Speakers</center></th> <th colspan="6"><center>Chinese Speakers</center></th>
     	<tr>
 	    	<td >Pipeline</td>
+	    	<td>Sync↑</td>
+	    	<td>PSNR↑</td>
+        	<td>SSIM↓</td>
+			<td>FID↓</td>
+        	<td>IS↑</td>
+			<td >Pipeline</td>
 	    	<td>Sync↑</td>
 	    	<td>PSNR↑</td>
         	<td>SSIM↓</td>
@@ -81,27 +87,6 @@ Because NeRF based renderers (GeneFace and ER-NeRF) are person-dependent, we tra
         	<td>xxx</td>
 			<td>xxx</td>
         	<td>xxx</td>
-		</tr >
-		<tr>
-	    	<td >SadTalker</td>
-	    	<td>xxx</td>
-	    	<td>xxx</td>
-        	<td>xxx</td>
-			<td>xxx</td>
-        	<td>xxx</td>
-		</tr >
-	<tr>
-	    <th colspan="6"><center>Chinese Speakers</center></th>
-    	<tr>
-	    	<td >Pipeline</td>
-	    	<td>Sync↑</td>
-	    	<td>PSNR↑</td>
-        	<td>SSIM↓</td>
-			<td>FID↓</td>
-        	<td>IS↑</td>
-		</tr >
-    </tr >
-		<tr>
 	    	<td >Wav2Lip</td>
 	    	<td>xxx</td>
 	    	<td>xxx</td>
@@ -111,6 +96,12 @@ Because NeRF based renderers (GeneFace and ER-NeRF) are person-dependent, we tra
 		</tr >
 		<tr>
 	    	<td >SadTalker</td>
+	    	<td>xxx</td>
+	    	<td>xxx</td>
+        	<td>xxx</td>
+			<td>xxx</td>
+        	<td>xxx</td>
+	    	<td >SadTaler</td>
 	    	<td>xxx</td>
 	    	<td>xxx</td>
         	<td>xxx</td>
@@ -148,9 +139,6 @@ Because NeRF based renderers (GeneFace and ER-NeRF) are person-dependent, we tra
         	<td>xxx</td>
 		</tr >
 	<tr>
-</table>
-
-<table>
 	<tr>
 	    <th colspan="6"><center>xxx (Chinese)</center></th>
     	<tr>
