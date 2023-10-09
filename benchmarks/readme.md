@@ -52,7 +52,7 @@ In this benchmark, we collect 4 videos for English speakers and 3 videos for Chi
     </tr >
 </table>
 
-### Benchmarks
+### Benchmark
 To measure the performance of Wav2Lip and SadTalker, we run them on all videos and testing with the following metrics: 
 - **Sync**: The confidence score from SyncNet (lip-sync).
 - **PSNR**: Peak Signal-to-Noise Ratio (image quality).
