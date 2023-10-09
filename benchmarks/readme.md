@@ -16,18 +16,27 @@ In this benchmark, we collect 3 videos for English speakers and 3 videos for Chi
 
 #### File Structure
 ```
-├── driving audios
+├── driving_audios
 | ├── [9.3M] may_english.aac
 | ├── [9.3M] macron_english.aac
 | ├── [3.5M] obama1_english.aac
-├── source image
+| ├── [4.6M] laoliang_chinese_audio.mp3
+| ├── [4.3M] luoxiang_chinese_audio.mp3
+| ├── [8.9M] zuijiapaidang_chinese_audio.mp3
+├── source_images
 | ├── [294K] may.png
 | ├── [202K] macron.png
 | ├── [213M] obama1.png
+| ├── [206K] zuijiapaidang.png
+| ├── [175K] luoxiang.png
+| ├── [204K] laoliang.png
 ├── reference videos
 │ ├── [56M] obama1_english.mp4, 03:38.16, 450x450, 46 sentences
 │ ├── [96M] may_english.mp4, 04:02.97, 512x512, 35 sentences
 │ ├── [146M] macron_english.mp4, 09:30.94, 512x512, 49 sentences
+│ ├── [13M] laoliang_chinese.mp4, 04:59.00, 410x380, 40 sentences
+│ ├── [14M] luoxiang_chinese.mp4, 04:40.01, 350x500, 32 sentences
+│ ├── [28M] zuijiapaidang_chinese.mp4, 09:41.98, 460x450, 85 sentences
 ```
 
 <table>
@@ -49,12 +58,20 @@ In this benchmark, we collect 3 videos for English speakers and 3 videos for Chi
     <tr>
 	    <th colspan="3"><center>Chinese Speakers</center></th>
     	<tr>
-	    	<td >xxx.mp4</td>
-	    	<td>xxx.mp4</td>
-	    	<td>xxx.mp4</td>
+	    	<td >laoliang_chinese.mp4</td>
+	    	<td>luoxiang_chinese.mp4</td>
+	    	<td>zuijiapaidang_chinese.mp4</td>
         	<!-- <td>xxx.mp4</td> -->
 		</tr >
     </tr >
+	</tr >
+    	<tr>
+	    	<td><iframe src="https://drive.google.com/file/d/1iBGa6_x4bhfnWblEPtL3NbQwULQdNXCq/preview"></iframe></td>
+	    	<td><iframe src="https://drive.google.com/file/d/1d1haMYyA9mH0Wc1NgkEAuHtk30KpLJME/preview"></iframe></td>
+        	<!-- <td><iframe src="https://drive.google.com/file/d/1tUU8yRM4mcwEhbuM-rt1MkH-xuYBS2Ar/preview"></iframe></td> -->
+        	<td><iframe src="https://drive.google.com/file/d/1H-DhAj2K8EESbCUWvr6ylcUqKIFVJ94k/preview"></iframe></td>
+		</tr >
+    <tr>
 </table>
 
 ### Benchmark
@@ -65,8 +82,51 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 - **FID**: Frchet Inception Distance (image quality).
 - **IS**: Inception score (image quality).
 
-Because NeRF based renderers (GeneFace and ER-NeRF) are person-dependent, we train them on *the first 3 minutes* of marcon and xxx respectively.
+### Qualitative Results for One-shot Pipelines
 
+<table>
+	<tr>
+	    <th colspan="2"><center>English Speakers</center></th>
+    	<tr>
+	    	<td >marcon_Wav2Lip.mp4</td>
+	    	<td>may_Wav2Lip.mp4</td>
+	    	<!-- <td>shaheen_english.mp4</td> -->
+        	<td>macron_Wav2Lip.mp4</td>
+		</tr >
+    </tr >
+    <tr>
+	    <th colspan="3"><center>Chinese Speakers</center></th>
+    	<tr>
+	    	<td >laoliang_Wav2Lip.mp4</td>
+	    	<td>luoxiang_Wav2Lip.mp4</td>
+	    	<td>zuijiapaidang_Wav2Lip.mp4</td>
+        	<!-- <td>xxx.mp4</td> -->
+		</tr >
+    </tr >
+</table>
+
+<table>
+	<tr>
+	    <th colspan="3"><center>English Speakers</center></th>
+    	<tr>
+	    	<td >obama1_SadTalker.mp4</td>
+	    	<td>may_SadTalker.mp4</td>
+	    	<!-- <td>shaheen_english.mp4</td> -->
+        	<td>macron_SadTalker.mp4</td>
+		</tr >
+    </tr >
+    <tr>
+	    <th colspan="3"><center>Chinese Speakers</center></th>
+    	<tr>
+	    	<td >laoliang_SadTalker.mp4</td>
+	    	<td>luoxiang_SadTalker.mp4</td>
+	    	<td>zuijiapaidang_SadTalker.mp4</td>
+        	<!-- <td>xxx.mp4</td> -->
+		</tr >
+    </tr >
+</table>
+
+### Quantitative Results for One-shot Pipelines
 <table>
 	<tr>
 	    <th colspan="6"><center>English Speakers</center></th> <th colspan="6"><center>Chinese Speakers</center></th>
@@ -115,9 +175,32 @@ Because NeRF based renderers (GeneFace and ER-NeRF) are person-dependent, we tra
 		</tr >
 </table>
 
+Because NeRF based renderers (GeneFace and ER-NeRF) are person-dependent, we train them on *the first 3 minutes* of marcon and zuijiapaidang respectively.
+
+### Qualitative Results for Few-shot Pipelines
+
 <table>
 	<tr>
-	    <th colspan="6"><center>marcon (English)</center></th><th colspan="6"><center>xxx (Chinese)</center></th>
+	    <th colspan="2"><center>English Speakers</center></th>
+    	<tr>
+	    	<td >marcon_GeneFace.mp4</td>
+	    	<td>macron_ER-NeRF.mp4</td>
+		</tr >
+    </tr >
+    <tr>
+	    <th colspan="2"><center>Chinese Speakers</center></th>
+    	<tr>
+	    	<td >zuijiapaidang_GeneFace.mp4</td>
+	    	<td>zuijiapaidang_ER-NeRF.mp4</td>
+		</tr >
+    </tr >
+</table>
+
+### Quantitative Results for Few-shot Pipelines
+
+<table>
+	<tr>
+	    <th colspan="6"><center>marcon (English)</center></th><th colspan="6"><center>zuijiapaidang (Chinese)</center></th>
     	<tr>
 	    	<td >Pipeline</td>
 	    	<td>Sync↑</td>
@@ -165,5 +248,6 @@ Because NeRF based renderers (GeneFace and ER-NeRF) are person-dependent, we tra
 </table>
 
 ### External Links
-1. [FFmpeg 101: Top 10 Command Options You Need to Know (with Examples)](https://www.bannerbear.com/blog/ffmpeg-101-top-10-command-options-you-need-to-know-with-examples/)
+1. [Extract Frames using FFmpeg: A Comprehensive Guide](https://ottverse.com/extract-frames-using-ffmpeg-a-comprehensive-guide/)
 2. [Whisper Web: ML-powered speech recognition directly in your browser](https://huggingface.co/spaces/Xenova/whisper-web)
+3. [moviepy.video.fx.all.crop](https://zulko.github.io/moviepy/ref/videofx/moviepy.video.fx.all.crop.html)
