@@ -156,7 +156,7 @@ Because NeRF based renderers (GeneFace and ER-NeRF) are person-dependent, we tra
 			<td>xxx</td>
         	<td>xxx</td>
 		</tr >
-	<tr>
+	<!-- <tr> -->
 </table>
 
 ### External Links
