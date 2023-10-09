@@ -6,7 +6,7 @@ This repository contains the datasets and testing scripts for talking-face synth
 > A microbenchmark serves as a valuable tool for researchers to conduct speedy evaluations of new algorithms. This repository can be easily customized and applied to diverse audio-visual talking-face datasets.
 
 ### Datasets
-In this benchmark, we collect 4 videos for English speakers and 3 videos for Chinese speakers.
+In this benchmark, we collect 3 videos for English speakers and 3 videos for Chinese speakers.
 
 <!-- <img src="https://github.com/Jason-cs18/awesome-avatar/blob/main/benchmarks/assets/file_structure.png"/>
 
