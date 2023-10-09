@@ -166,7 +166,7 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 </table>
 
 
-*Because NeRF based renderers (GeneFace and ER-NeRF) are person-dependent, we train them on *the first 3 minutes* of marcon and zuijiapaidang respectively.*
+*Because NeRF based renderers (GeneFace and ER-NeRF) are person-dependent, we train them on the first 3 minutes of marcon and zuijiapaidang respectively.*
 
 
 ### Qualitative Results for Few-shot Pipelines
@@ -242,3 +242,4 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 1. [Extract Frames using FFmpeg: A Comprehensive Guide](https://ottverse.com/extract-frames-using-ffmpeg-a-comprehensive-guide/)
 2. [Whisper Web: ML-powered speech recognition directly in your browser](https://huggingface.co/spaces/Xenova/whisper-web)
 3. [moviepy.video.fx.all.crop](https://zulko.github.io/moviepy/ref/videofx/moviepy.video.fx.all.crop.html)
+4. [Trim Video: Trim or cut video of any format](https://online-video-cutter.com/)
