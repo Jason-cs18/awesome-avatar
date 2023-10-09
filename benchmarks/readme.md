@@ -15,20 +15,20 @@ In this benchmark, we collect 3 videos for English speakers and 3 videos for Chi
 <!-- ![](https://github.com/Jason-cs18/awesome-avatar/blob/main/benchmarks/assets/file_structure.png) -->
 
 #### File Structure
->  ```
->  ├── driving audios
->  | ├── [9.3M] may_english.aac
->  | ├── [9.3M] macron_english.aac
->  | ├── [3.5M] obama1_english.aac
->  ├── source image
->  | ├── [294K] may.png
->  | ├── [202K] macron.png
->  | ├── [213M] obama1.png
->  ├── reference videos
->  │ ├── [56M] obama1_english.mp4, 03:38.16, 450x450, 46 sentences
->  │ ├── [96M] may_english.mp4, 04:02.97, 512x512, 35 sentences
->  │ ├── [146M] macron_english.mp4, 09:30.94, 512x512, 49 sentences
-> ```
+```
+├── driving audios
+| ├── [9.3M] may_english.aac
+| ├── [9.3M] macron_english.aac
+| ├── [3.5M] obama1_english.aac
+├── source image
+| ├── [294K] may.png
+| ├── [202K] macron.png
+| ├── [213M] obama1.png
+├── reference videos
+│ ├── [56M] obama1_english.mp4, 03:38.16, 450x450, 46 sentences
+│ ├── [96M] may_english.mp4, 04:02.97, 512x512, 35 sentences
+│ ├── [146M] macron_english.mp4, 09:30.94, 512x512, 49 sentences
+```
 
 <table>
 	<tr>
