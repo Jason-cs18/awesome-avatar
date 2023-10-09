@@ -1,5 +1,5 @@
 # A Microbenchmark for Talking-Face Synthesis
-### [**Google Drive**](https://drive.google.com/drive/folders/1vBse3rgHd3JfTGNFXC-oUZs5DR9B5Mep?usp=sharing) | [**Website**](https://jason-cs18.github.io/awesome-avatar/benchmarks/)
+### [**Google Drive**](https://drive.google.com/drive/folders/1vBse3rgHd3JfTGNFXC-oUZs5DR9B5Mep?usp=sharing) | [**Website**](https://jason-cs18.github.io/awesome-avatar/benchmarks/) | [**Code**](https://github.com/Jason-cs18/awesome-avatar/tree/main/benchmarks)
 
 This repository contains the datasets and testing scripts for talking-face synthesis.
 
