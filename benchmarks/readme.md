@@ -52,8 +52,62 @@ In this benchmark, we collect 4 videos for English speakers and 3 videos for Chi
     </tr >
 </table>
 
-### Metrics
-### Demos
+### Benchmarks
+To measure the performance of Wav2Lip and SadTalker, we run them on all videos and testing with the following metrics: 
+- **Sync**: The confidence score from SyncNet (lip-sync).
+- **PSNR**: Peak Signal-to-Noise Ratio (image quality).
+- **SSIM**: Structural similarity for image (image quality).
+- **FID**: Frchet Inception Distance (image quality).
+- **IS**: Inception score (image quality).
+
+Because NeRF based renderers (GeneFace and ER-NeRF) are person-dependent, we train them on the first 3 minutes of marcon and xxx respectively.
+
+<table>
+	<tr>
+	    <th colspan="6"><center>English Speakers</center></th>
+    	<tr>
+	    	<td >Pipeline</td>
+	    	<td>Sync↑</td>
+	    	<td>PSNR↑</td>
+        	<td>SSIM↓</td>
+			<td>FID↓</td>
+        	<td>IS↑</td>
+		</tr >
+    </tr >
+		<tr>
+	    	<td >Wav2Lip</td>
+	    	<td>xxx</td>
+	    	<td>xxx</td>
+        	<td>xxx</td>
+			<td>xxx</td>
+        	<td>xxx</td>
+		</tr >
+		<tr>
+	    	<td >SadTalker</td>
+	    	<td>xxx</td>
+	    	<td>xxx</td>
+        	<td>xxx</td>
+			<td>xxx</td>
+        	<td>xxx</td>
+		</tr >
+		<tr>
+	    	<td >GeneFace</td>
+	    	<td>xxx</td>
+	    	<td>xxx</td>
+        	<td>xxx</td>
+			<td>xxx</td>
+        	<td>xxx</td>
+		</tr >
+		<tr>
+	    	<td >ER-NeRF</td>
+	    	<td>xxx</td>
+	    	<td>xxx</td>
+        	<td>xxx</td>
+			<td>xxx</td>
+        	<td>xxx</td>
+		</tr >
+</table>
+
 ### External Links
 1. [FFmpeg 101: Top 10 Command Options You Need to Know (with Examples)](https://www.bannerbear.com/blog/ffmpeg-101-top-10-command-options-you-need-to-know-with-examples/)
 2. [Whisper Web: ML-powered speech recognition directly in your browser](https://huggingface.co/spaces/Xenova/whisper-web)
