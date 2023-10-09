@@ -30,7 +30,7 @@ In this benchmark, we collect 3 videos for English speakers and 3 videos for Chi
 | ├── [206K] zuijiapaidang.png
 | ├── [175K] luoxiang.png
 | ├── [204K] laoliang.png
-├── reference videos
+├── reference_videos
 │ ├── [56M] obama1_english.mp4, 03:38.16, 450x450, 46 sentences
 │ ├── [96M] may_english.mp4, 04:02.97, 512x512, 35 sentences
 │ ├── [146M] macron_english.mp4, 09:30.94, 512x512, 49 sentences
@@ -80,7 +80,7 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 
 <table>
 	<tr>
-	    <th colspan="2"><center>English Speakers</center></th>
+	    <th colspan="3"><center>English Speakers</center></th>
     	<tr>
 	    	<td >marcon_Wav2Lip.mp4</td>
 	    	<td>may_Wav2Lip.mp4</td>
