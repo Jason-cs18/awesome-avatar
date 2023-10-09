@@ -61,7 +61,7 @@ In this benchmark, we collect 3 videos for English speakers and 3 videos for Chi
 	    	<td>zuijiapaidang_chinese.mp4</td>
 		</tr >
     </tr >
-	</tr >
+	<!-- </tr > -->
     	<tr>
 	    	<td><iframe src="https://drive.google.com/file/d/1iBGa6_x4bhfnWblEPtL3NbQwULQdNXCq/preview"></iframe></td>
 	    	<td><iframe src="https://drive.google.com/file/d/1d1haMYyA9mH0Wc1NgkEAuHtk30KpLJME/preview"></iframe></td>
