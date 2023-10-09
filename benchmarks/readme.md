@@ -6,7 +6,7 @@ This repository contains the datasets and testing scripts for talking-face synth
 > A microbenchmark serves as a valuable tool for researchers to conduct speedy evaluations of new algorithms. This repository can be easily customized and applied to diverse audio-visual talking-face datasets.
 
 ### Datasets
-In this benchmark, we collect 6 videos for English speakers and 3 videos for Chinese speakers.
+In this benchmark, we collect 4 videos for English speakers and 3 videos for Chinese speakers.
 
 ![File Structure](https://github.com/Jason-cs18/awesome-avatar/blob/main/benchmarks/assets/file_structure.png "Magic Gardens")
 
@@ -25,11 +25,35 @@ In this benchmark, we collect 6 videos for English speakers and 3 videos for Chi
 	</tr >
     </tr >
     	<tr>
-	    <td>Obama1_english.mp4</td>
-	    <td><iframe src="https://drive.google.com/file/d/1y6m7zjUHWmL-0huWifD1MEoRrWXY6V5c/preview"></iframe></td>
+	    <td>obama1_english.mp4</td>
+	    <td><iframe src="https://drive.google.com/file/d/1g-T1nvL0KqBkInIRVSSbOvmC1LiCB36o/preview"></iframe></td>
         <td>03:38.16</td>
         <td>450x450</td>
-        <td>xxx</td>
+        <td>46</td>
+	</tr >
+    </tr >
+    	<tr>
+	    <td>may_english.mp4</td>
+	    <td><iframe src="https://drive.google.com/file/d/1g-T1nvL0KqBkInIRVSSbOvmC1LiCB36o/preview"></iframe></td>
+        <td>03:38.16</td>
+        <td>450x450</td>
+        <td>46</td>
+	</tr >
+    </tr >
+    	<tr>
+	    <td>shaheen_english.mp4</td>
+	    <td><iframe src="https://drive.google.com/file/d/1tUU8yRM4mcwEhbuM-rt1MkH-xuYBS2Ar/preview"></iframe></td>
+        <td>03:38.16</td>
+        <td>450x450</td>
+        <td>46</td>
+	</tr >
+    </tr >
+    	<tr>
+	    <td>macron_english.mp4</td>
+	    <td><iframe src="https://drive.google.com/file/d/1jxu5SqluMDHFxT1R7dP1k4uWHHnnG9RK/preview"></iframe></td>
+        <td>03:38.16</td>
+        <td>450x450</td>
+        <td>46</td>
 	</tr >
     <tr>
 	    <th colspan="5"><center>Chinese Speakers</center></th>
@@ -53,3 +77,6 @@ In this benchmark, we collect 6 videos for English speakers and 3 videos for Chi
 
 ### Metrics
 ### Demos
+### External Links
+1. [FFmpeg 101: Top 10 Command Options You Need to Know (with Examples)](https://www.bannerbear.com/blog/ffmpeg-101-top-10-command-options-you-need-to-know-with-examples/)
+2. [Whisper Web: ML-powered speech recognition directly in your browser](https://huggingface.co/spaces/Xenova/whisper-web)
