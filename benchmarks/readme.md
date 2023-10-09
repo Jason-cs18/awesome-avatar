@@ -45,14 +45,12 @@ In this benchmark, we collect 3 videos for English speakers and 3 videos for Chi
     	<tr>
 	    	<td >obama1_english.mp4</td>
 	    	<td>may_english.mp4</td>
-	    	<!-- <td>shaheen_english.mp4</td> -->
         	<td>macron_english.mp4</td>
 		</tr >
     </tr >
     	<tr>
 	    	<td><iframe src="https://drive.google.com/file/d/1g-T1nvL0KqBkInIRVSSbOvmC1LiCB36o/preview"></iframe></td>
 	    	<td><iframe src="https://drive.google.com/file/d/1UMQZP7j8ORLJpHYiUMc-FexDp_SX7386/preview"></iframe></td>
-        	<!-- <td><iframe src="https://drive.google.com/file/d/1tUU8yRM4mcwEhbuM-rt1MkH-xuYBS2Ar/preview"></iframe></td> -->
         	<td><iframe src="https://drive.google.com/file/d/1jxu5SqluMDHFxT1R7dP1k4uWHHnnG9RK/preview"></iframe></td>
 		</tr >
     <tr>
@@ -61,14 +59,12 @@ In this benchmark, we collect 3 videos for English speakers and 3 videos for Chi
 	    	<td >laoliang_chinese.mp4</td>
 	    	<td>luoxiang_chinese.mp4</td>
 	    	<td>zuijiapaidang_chinese.mp4</td>
-        	<!-- <td>xxx.mp4</td> -->
 		</tr >
     </tr >
 	</tr >
     	<tr>
 	    	<td><iframe src="https://drive.google.com/file/d/1iBGa6_x4bhfnWblEPtL3NbQwULQdNXCq/preview"></iframe></td>
 	    	<td><iframe src="https://drive.google.com/file/d/1d1haMYyA9mH0Wc1NgkEAuHtk30KpLJME/preview"></iframe></td>
-        	<!-- <td><iframe src="https://drive.google.com/file/d/1tUU8yRM4mcwEhbuM-rt1MkH-xuYBS2Ar/preview"></iframe></td> -->
         	<td><iframe src="https://drive.google.com/file/d/1H-DhAj2K8EESbCUWvr6ylcUqKIFVJ94k/preview"></iframe></td>
 		</tr >
     <tr>
@@ -90,7 +86,6 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
     	<tr>
 	    	<td >marcon_Wav2Lip.mp4</td>
 	    	<td>may_Wav2Lip.mp4</td>
-	    	<!-- <td>shaheen_english.mp4</td> -->
         	<td>macron_Wav2Lip.mp4</td>
 		</tr >
     </tr >
@@ -100,7 +95,6 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 	    	<td >laoliang_Wav2Lip.mp4</td>
 	    	<td>luoxiang_Wav2Lip.mp4</td>
 	    	<td>zuijiapaidang_Wav2Lip.mp4</td>
-        	<!-- <td>xxx.mp4</td> -->
 		</tr >
     </tr >
 </table>
@@ -111,7 +105,6 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
     	<tr>
 	    	<td >obama1_SadTalker.mp4</td>
 	    	<td>may_SadTalker.mp4</td>
-	    	<!-- <td>shaheen_english.mp4</td> -->
         	<td>macron_SadTalker.mp4</td>
 		</tr >
     </tr >
@@ -121,7 +114,6 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 	    	<td >laoliang_SadTalker.mp4</td>
 	    	<td>luoxiang_SadTalker.mp4</td>
 	    	<td>zuijiapaidang_SadTalker.mp4</td>
-        	<!-- <td>xxx.mp4</td> -->
 		</tr >
     </tr >
 </table>
@@ -175,7 +167,9 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 		</tr >
 </table>
 
-Because NeRF based renderers (GeneFace and ER-NeRF) are person-dependent, we train them on *the first 3 minutes* of marcon and zuijiapaidang respectively.
+
+> Because NeRF based renderers (GeneFace and ER-NeRF) are person-dependent, we train them on *the first 3 minutes* of marcon and zuijiapaidang respectively.
+
 
 ### Qualitative Results for Few-shot Pipelines
 
@@ -244,7 +238,6 @@ Because NeRF based renderers (GeneFace and ER-NeRF) are person-dependent, we tra
 			<td>xxx</td>
         	<td>xxx</td>
 		</tr >
-	<!-- <tr> -->
 </table>
 
 ### External Links
