@@ -17,37 +17,42 @@ In this benchmark, we collect 4 videos for English speakers and 3 videos for Chi
 #### File Structure
 >  ```
 >  ├── driving audios
+>  | ├── [9.3M] may_english.aac
+>  | ├── [9.3M] macron_english.aac
+>  | ├── [3.5M] obama1_english.aac
 >  ├── source image
+>  | ├── [294K] may.png
+>  | ├── [202K] macron.png
+>  | ├── [213M] obama1.png
 >  ├── reference videos
 >  │ ├── [56M] obama1_english.mp4, 03:38.16, 450x450, 46 sentences
 >  │ ├── [96M] may_english.mp4, 04:02.97, 512x512, 35 sentences
->  │ ├── [234M] shaheen_english.mp4, 04:28.08, 512x512, 37 sentences
 >  │ ├── [146M] macron_english.mp4, 09:30.94, 512x512, 49 sentences
 > ```
 
 <table>
 	<tr>
-	    <th colspan="4"><center>English Speakers</center></th>
+	    <th colspan="3"><center>English Speakers</center></th>
     	<tr>
 	    	<td >obama1_english.mp4</td>
 	    	<td>may_english.mp4</td>
-	    	<td>shaheen_english.mp4</td>
+	    	<!-- <td>shaheen_english.mp4</td> -->
         	<td>macron_english.mp4</td>
 		</tr >
     </tr >
     	<tr>
 	    	<td><iframe src="https://drive.google.com/file/d/1g-T1nvL0KqBkInIRVSSbOvmC1LiCB36o/preview"></iframe></td>
 	    	<td><iframe src="https://drive.google.com/file/d/1UMQZP7j8ORLJpHYiUMc-FexDp_SX7386/preview"></iframe></td>
-        	<td><iframe src="https://drive.google.com/file/d/1tUU8yRM4mcwEhbuM-rt1MkH-xuYBS2Ar/preview"></iframe></td>
+        	<!-- <td><iframe src="https://drive.google.com/file/d/1tUU8yRM4mcwEhbuM-rt1MkH-xuYBS2Ar/preview"></iframe></td> -->
         	<td><iframe src="https://drive.google.com/file/d/1jxu5SqluMDHFxT1R7dP1k4uWHHnnG9RK/preview"></iframe></td>
 		</tr >
     <tr>
-	    <th colspan="4"><center>Chinese Speakers</center></th>
+	    <th colspan="3"><center>Chinese Speakers</center></th>
     	<tr>
 	    	<td >xxx.mp4</td>
 	    	<td>xxx.mp4</td>
 	    	<td>xxx.mp4</td>
-        	<td>xxx.mp4</td>
+        	<!-- <td>xxx.mp4</td> -->
 		</tr >
     </tr >
 </table>
