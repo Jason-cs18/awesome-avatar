@@ -82,7 +82,7 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 	<tr>
 	    <th colspan="3"><center>English Speakers</center></th>
     	<tr>
-	    	<td >marcon_Wav2Lip.mp4</td>
+	    	<td >obama1_Wav2Lip.mp4</td>
 	    	<td>may_Wav2Lip.mp4</td>
         	<td>macron_Wav2Lip.mp4</td>
 		</tr >
