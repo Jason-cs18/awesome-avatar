@@ -166,7 +166,7 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 </table>
 
 
-> Because NeRF based renderers (GeneFace and ER-NeRF) are person-dependent, we train them on *the first 3 minutes* of marcon and zuijiapaidang respectively.
+*Because NeRF based renderers (GeneFace and ER-NeRF) are person-dependent, we train them on *the first 3 minutes* of marcon and zuijiapaidang respectively.*
 
 
 ### Qualitative Results for Few-shot Pipelines
