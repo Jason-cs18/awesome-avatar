@@ -87,6 +87,13 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
         	<td>macron_Wav2Lip.mp4</td>
 		</tr >
     </tr >
+	<tr>
+    	<tr>
+	    	<td><iframe src="https://drive.google.com/file/d/1lG1BVdtPNqpjr3_E_v3kMj14_tFZB1zu/preview"></iframe></td>
+	    	<td>TBD</td>
+        	<td>TBD</td>
+		</tr >
+    </tr >
     <tr>
 	    <th colspan="3"><center>Chinese Speakers</center></th>
     	<tr>
@@ -104,6 +111,11 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 	    	<td >obama1_SadTalker.mp4</td>
 	    	<td>may_SadTalker.mp4</td>
         	<td>macron_SadTalker.mp4</td>
+		</tr >
+		<tr>
+	    	<td><iframe src="https://drive.google.com/file/d/1xw0gsxCIGJOKpdAudHM1M5mc7qFaQnBv/preview"></iframe></td>
+	    	<td>TBD</td>
+        	<td>TBD</td>
 		</tr >
     </tr >
     <tr>
