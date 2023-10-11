@@ -4,6 +4,7 @@
 - Basic info: CMU 16-726, Spring 2023;
 - Instructor: [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/);
 - Website: https://learning-image-synthesis.github.io/sp23/
+
 ## Tutorials
 ### Video Synthesis: Early Days and New Developments
 - Conference: ECCV'22 (Oct 24, 2022)
@@ -29,6 +30,7 @@
 - Conference: CVPR'23 (June 18, 2023);
 - Organizers: [Hila Chefer @ Tel Aviv University](https://hila-chefer.github.io/) and [Sayak Paul @ Google Resaearch & Hugging Face](https://sayak.dev/);
 - Website: https://all-things-vits.github.io/atv/;
+
 ## Talks
 1. [Interpreting Deep Generative Models
 for Interactive AI Content Creation, Bolei Zhou, CUHK.](https://www.youtube.com/watch?v=PtRU2B6Iml4)
