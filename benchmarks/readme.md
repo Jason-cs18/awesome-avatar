@@ -1,5 +1,5 @@
 # A Microbenchmark for Talking-Face Synthesis
-### [**Dataset**](https://drive.google.com/drive/folders/1vBse3rgHd3JfTGNFXC-oUZs5DR9B5Mep?usp=sharing) | [**Website**](https://jason-cs18.github.io/awesome-avatar/benchmarks/) | [**Code**](https://github.com/Jason-cs18/awesome-avatar/tree/main/benchmarks)
+### [**Dataset**](https://drive.google.com/drive/folders/1vBse3rgHd3JfTGNFXC-oUZs5DR9B5Mep?usp=sharing) | [**Website**](https://jason-cs18.github.io/awesome-avatar/benchmarks/)
 
 This repository contains the datasets and testing scripts for talking-face synthesis.
 
@@ -76,15 +76,20 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 - **FID**: Frchet inception distance (image quality);
 - **IS**: Inception score (image quality);
 
+### Implementation (off-the-shelf tools)
+1. Sync: https://github.com/joonson/syncnet_python
+2. PSNR, SSIM: https://github.com/slhck/ffmpeg-quality-metrics
+3. FID, IS: https://github.com/toshas/torch-fidelity
+
 ### Qualitative Results for One-shot Pipelines
 
 <table>
 	<tr>
 	    <th colspan="3"><center>English Speakers</center></th>
     	<tr>
-	    	<td >obama1_Wav2Lip.mp4</td>
-	    	<td>may_Wav2Lip.mp4</td>
-        	<td>macron_Wav2Lip.mp4</td>
+	    	<td ><center>obama1_Wav2Lip.mp4</center></td>
+	    	<td><center>may_Wav2Lip.mp4</center></td>
+        	<td><center>macron_Wav2Lip.mp4</center></td>
 		</tr >
     </tr >
 	<tr>
@@ -97,9 +102,9 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
     <tr>
 	    <th colspan="3"><center>Chinese Speakers</center></th>
     	<tr>
-	    	<td >laoliang_Wav2Lip.mp4</td>
-	    	<td>luoxiang_Wav2Lip.mp4</td>
-	    	<td>zuijiapaidang_Wav2Lip.mp4</td>
+	    	<td ><center>laoliang_Wav2Lip.mp4</center></td>
+	    	<td><center>luoxiang_Wav2Lip.mp4</center></td>
+	    	<td><center>zuijiapaidang_Wav2Lip.mp4</center></td>
 		</tr >
     </tr >
 </table>
@@ -108,9 +113,9 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 	<tr>
 	    <th colspan="3"><center>English Speakers</center></th>
     	<tr>
-	    	<td >obama1_SadTalker.mp4<br><b>PSNR:</b> 20.587, <b>SSIM:</b> 0.754</td>
-	    	<td>may_SadTalker.mp4</td>
-        	<td>macron_SadTalker.mp4</td>
+	    	<td ><center>obama1_SadTalker.mp4<br><b>PSNR:</b> 20.587, <b>SSIM:</b> 0.754</center></td>
+	    	<td><center>may_SadTalker.mp4</center></td>
+        	<td><center>macron_SadTalker.mp4</center></td>
 		</tr >
 		<tr>
 	    	<td><iframe src="https://drive.google.com/file/d/1xw0gsxCIGJOKpdAudHM1M5mc7qFaQnBv/preview"></iframe></td>
@@ -121,9 +126,9 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
     <tr>
 	    <th colspan="3"><center>Chinese Speakers</center></th>
     	<tr>
-	    	<td >laoliang_SadTalker.mp4</td>
-	    	<td>luoxiang_SadTalker.mp4</td>
-	    	<td>zuijiapaidang_SadTalker.mp4</td>
+	    	<td ><center>laoliang_SadTalker.mp4</center></td>
+	    	<td><center>luoxiang_SadTalker.mp4</center></td>
+	    	<td><center>zuijiapaidang_SadTalker.mp4</center></td>
 		</tr >
     </tr >
 </table>
