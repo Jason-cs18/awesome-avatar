@@ -43,9 +43,9 @@ In this benchmark, we collect 3 videos for English speakers and 3 videos for Chi
 	<tr>
 	    <th colspan="3"><center>English Speakers</center></th>
     	<tr>
-	    	<td >obama1_english.mp4</td>
-	    	<td>may_english.mp4</td>
-        	<td>macron_english.mp4</td>
+	    	<td ><center>obama1_english.mp4</center></td>
+	    	<td><center>may_english.mp4</center></td>
+        	<td><center>macron_english.mp4</center></td>
 		</tr >
     </tr >
     	<tr>
@@ -56,9 +56,9 @@ In this benchmark, we collect 3 videos for English speakers and 3 videos for Chi
     <tr>
 	    <th colspan="3"><center>Chinese Speakers</center></th>
     	<tr>
-	    	<td >laoliang_chinese.mp4</td>
-	    	<td>luoxiang_chinese.mp4</td>
-	    	<td>zuijiapaidang_chinese.mp4</td>
+	    	<td ><center>laoliang_chinese.mp4</center></td>
+	    	<td><center>luoxiang_chinese.mp4</center></td>
+	    	<td><center>zuijiapaidang_chinese.mp4</center></td>
 		</tr >
     </tr >
     	<tr>
@@ -134,7 +134,7 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
     	<tr>
 	    	<td ><center>laoliang_SadTalker.mp4<br><b>PSNR:</b> 18.536, <b>SSIM:</b> 0.672, <b>FID:</b> 52.36</center></td>
 	    	<td><center>luoxiang_SadTalker.mp4<br><b>PSNR:</b> 14.363, <b>SSIM:</b> 0.598, <b>FID:</b> 104.22</center></td>
-	    	<td><center>zuijiapaidang_SadTalker.mp4<br><b>PSNR:</b> 17.359, <b>SSIM:</b> 0.725, <b>FID:</b> 104.22</center></td>
+	    	<td><center>zuijiapaidang_SadTalker.mp4<br><b>PSNR:</b> 17.359, <b>SSIM:</b> 0.725, <b>FID:</b> 47.78</center></td>
 		</tr >
 		<tr>
 	    	<td><iframe src="https://drive.google.com/file/d/1i5fu_iYkg98a6vRvPw7tg8Z2mRvp4PV3/preview"></iframe></td>
