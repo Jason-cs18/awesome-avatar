@@ -111,6 +111,7 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 	    	<td><iframe src="https://drive.google.com/file/d/1SKfceJZ_142bETjqc-FyCtem-SSFlWI4/preview"></iframe></td>
 	    	<td><iframe src="https://drive.google.com/file/d/15Dt0-5rRbWiYDW4GuzfZGxK8ndjk2MOy/preview"></iframe></td>
         	<td><iframe src="https://drive.google.com/file/d/12iFMIexJkpG9dDmatfFD9yd-LG-bk1dw/preview"></td>
+        	<td><iframe src="https://drive.google.com/file/d/1m8itAbvVVi5kx67_00mUo7vpTGs0gwpw/preview"></iframe></td>
 		</tr >
     </tr >
 </table>
@@ -120,10 +121,12 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 	    <th colspan="3"><center>English Speakers</center></th>
     	<tr>
 	    	<td ><center>obama1_SadTalker.mp4<br><b>PSNR:</b> 20.587, <b>SSIM:</b> 0.754, <b>FID:</b> 24.051</center></td>
-	    	<td><center>may_SadTalker.mp4<br><b>PSNR:</b> 19.211, <b>SSIM:</b> 0.701, <b>FID:</b> 46.193</center></td>
-        	<td><center>macron_SadTalker.mp4<br><b>PSNR:</b> 18.729, <b>SSIM:</b> 0.763, <b>FID:</b> 98.981</center></td>
+	    	<td><center>may_SadTalker.mp4<br><b>PSNR:</b> 19.211, <b>SSIM:</b> 0.701, <b>FID:</b> 46.182</center></td>
+        	<td><center>macron_SadTalker.mp4<br><b>PSNR:</b> 18.729, <b>SSIM:</b> 0.763, <b>FID:</b> 98.982</center></td>
 		</tr >
-		<tr>
+    </tr >
+	<tr>
+    	<tr>
 	    	<td><iframe src="https://drive.google.com/file/d/1xw0gsxCIGJOKpdAudHM1M5mc7qFaQnBv/preview"></iframe></td>
 	    	<td><iframe src="https://drive.google.com/file/d/1wAFcDyK_Yma4pBHNQZAUJzWEzIsL6rS0/preview"></iframe></td>
         	<td><iframe src="https://drive.google.com/file/d/1y8NmIkXmgCXYKXxJKAEhYwjsh1LSiTiq/preview"></iframe></td>
@@ -134,19 +137,17 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
     	<tr>
 	    	<td ><center>laoliang_SadTalker.mp4<br><b>PSNR:</b> 18.536, <b>SSIM:</b> 0.672, <b>FID:</b> 52.362</center></td>
 	    	<td><center>luoxiang_SadTalker.mp4<br><b>PSNR:</b> 14.363, <b>SSIM:</b> 0.598, <b>FID:</b> 104.221</center></td>
-	    	<td><center>zuijiapaidang_SadTalker.mp4<br><b>PSNR:</b> 17.359, <b>SSIM:</b> 0.725, <b>FID:</b> 47.781</center></td>
+	    	<td><center>zuijiapaidang_SadTalker.mp4<br><b>PSNR:</b> 17.359, <b>SSIM:</b> 0.725, <b>FID:</b> 4.781</center></td>
 		</tr >
 		<tr>
 	    	<td><iframe src="https://drive.google.com/file/d/1i5fu_iYkg98a6vRvPw7tg8Z2mRvp4PV3/preview"></iframe></td>
 	    	<td><iframe src="https://drive.google.com/file/d/1Ln5WBpa2PMWT0vDMfB0M_Una_o5j2QL3/preview"></iframe></td>
-        	<td><iframe src="https://drive.google.com/file/d/1m8itAbvVVi5kx67_00mUo7vpTGs0gwpw/preview"></iframe></td>
+        	<td><iframe src="https://drive.google.com/file/d/1m8itAbvVVi5kx67_00mUo7vpTGs0gwpw/preview"></td>
 		</tr >
     </tr >
 </table>
 
 ### Quantitative Results for One-shot Pipelines
-
-
 
 <table>
 	<tr>
@@ -157,15 +158,14 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 	    	<td>PSNR↑</td>
         	<td>SSIM↑</td>
 			<td>FID↓</td>
-        	<!-- <td>IS↑</td> -->
 			<td >Pipeline</td>
 	    	<td>Sync↑</td>
 	    	<td>PSNR↑</td>
         	<td>SSIM↓</td>
 			<td>FID↓</td>
-        	<!-- <td>IS↑</td> -->
 		</tr >
     </tr >
+	<tr>
 		<tr>
 	    	<td >Wav2Lip</td>
 	    	<td>xxx</td>
@@ -174,7 +174,7 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 			<td>19.685</td>
         	<!-- <td>xxx</td> -->
 	    	<td >Wav2Lip</td>
-	    	<td>xxx</td>
+			<td>xxx</td>
 	    	<td>28.725</td>
         	<td>0.897</td>
 			<td>30.621</td>
@@ -194,6 +194,7 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 			<td>68.120</td>
         	<!-- <td>xxx</td> -->
 		</tr >
+	</tr>
 </table>
 
 
