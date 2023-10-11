@@ -88,8 +88,8 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 	<tr>
 	    <th colspan="3"><center>English Speakers</center></th>
     	<tr>
-	    	<td ><center>obama1_Wav2Lip.mp4<br><b>PSNR:</b> 32.287, <b>SSIM:</b> 0.95, <b>FID:</b> 18.99</center></td>
-	    	<td><center>may_Wav2Lip.mp4<br><b>PSNR:</b> 32.572, <b>SSIM:</b> 0.936, <b>FID:</b> 33.94</center></td>
+	    	<td ><center>obama1_Wav2Lip.mp4<br><b>PSNR:</b> 32.287, <b>SSIM:</b> 0.951, <b>FID:</b> 18.993</center></td>
+	    	<td><center>may_Wav2Lip.mp4<br><b>PSNR:</b> 32.572, <b>SSIM:</b> 0.936, <b>FID:</b> 33.941</center></td>
         	<td><center>macron_Wav2Lip.mp4<br><b>PSNR:</b> 35.737, <b>SSIM:</b> 0.969, <b>FID:</b> 6.121</center></td>
 		</tr >
     </tr >
@@ -103,8 +103,8 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
     <tr>
 	    <th colspan="3"><center>Chinese Speakers</center></th>
     	<tr>
-	    	<td ><center>laoliang_Wav2Lip.mp4<br><b>PSNR:</b> 31.444, <b>SSIM:</b> 0.939, <b>FID:</b> 19.19</center></td>
-	    	<td><center>luoxiang_Wav2Lip.mp4<br><b>PSNR:</b> 34.367, <b>SSIM:</b> 0.97, <b>FID:</b> 23.63</center></td>
+	    	<td ><center>laoliang_Wav2Lip.mp4<br><b>PSNR:</b> 31.444, <b>SSIM:</b> 0.939, <b>FID:</b> 19.192</center></td>
+	    	<td><center>luoxiang_Wav2Lip.mp4<br><b>PSNR:</b> 34.367, <b>SSIM:</b> 0.971, <b>FID:</b> 23.631</center></td>
 	    	<td><center>zuijiapaidang_Wav2Lip.mp4<br><b>PSNR:</b> TBD, <b>SSIM:</b> TBD, <b>FID:</b> TBD</center></td>
 		</tr >
 		<tr>
@@ -119,9 +119,9 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 	<tr>
 	    <th colspan="3"><center>English Speakers</center></th>
     	<tr>
-	    	<td ><center>obama1_SadTalker.mp4<br><b>PSNR:</b> 20.587, <b>SSIM:</b> 0.754, <b>FID:</b> 24.05</center></td>
-	    	<td><center>may_SadTalker.mp4<br><b>PSNR:</b> 19.211, <b>SSIM:</b> 0.701, <b>FID:</b> 46.19</center></td>
-        	<td><center>macron_SadTalker.mp4<br><b>PSNR:</b> 18.729, <b>SSIM:</b> 0.763, <b>FID:</b> 98.98</center></td>
+	    	<td ><center>obama1_SadTalker.mp4<br><b>PSNR:</b> 20.587, <b>SSIM:</b> 0.754, <b>FID:</b> 24.051</center></td>
+	    	<td><center>may_SadTalker.mp4<br><b>PSNR:</b> 19.211, <b>SSIM:</b> 0.701, <b>FID:</b> 46.193</center></td>
+        	<td><center>macron_SadTalker.mp4<br><b>PSNR:</b> 18.729, <b>SSIM:</b> 0.763, <b>FID:</b> 98.981</center></td>
 		</tr >
 		<tr>
 	    	<td><iframe src="https://drive.google.com/file/d/1xw0gsxCIGJOKpdAudHM1M5mc7qFaQnBv/preview"></iframe></td>
@@ -132,9 +132,9 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
     <tr>
 	    <th colspan="3"><center>Chinese Speakers</center></th>
     	<tr>
-	    	<td ><center>laoliang_SadTalker.mp4<br><b>PSNR:</b> 18.536, <b>SSIM:</b> 0.672, <b>FID:</b> 52.36</center></td>
-	    	<td><center>luoxiang_SadTalker.mp4<br><b>PSNR:</b> 14.363, <b>SSIM:</b> 0.598, <b>FID:</b> 104.22</center></td>
-	    	<td><center>zuijiapaidang_SadTalker.mp4<br><b>PSNR:</b> 17.359, <b>SSIM:</b> 0.725, <b>FID:</b> 47.78</center></td>
+	    	<td ><center>laoliang_SadTalker.mp4<br><b>PSNR:</b> 18.536, <b>SSIM:</b> 0.672, <b>FID:</b> 52.362</center></td>
+	    	<td><center>luoxiang_SadTalker.mp4<br><b>PSNR:</b> 14.363, <b>SSIM:</b> 0.598, <b>FID:</b> 104.221</center></td>
+	    	<td><center>zuijiapaidang_SadTalker.mp4<br><b>PSNR:</b> 17.359, <b>SSIM:</b> 0.725, <b>FID:</b> 47.781</center></td>
 		</tr >
 		<tr>
 	    	<td><iframe src="https://drive.google.com/file/d/1i5fu_iYkg98a6vRvPw7tg8Z2mRvp4PV3/preview"></iframe></td>
@@ -184,14 +184,14 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 	    	<td >SadTalker</td>
 	    	<td>xxx</td>
 	    	<td>19.509</td>
-        	<td>0.665</td>
-			<td>xxx</td>
+        	<td>0.739</td>
+			<td>56.407</td>
         	<!-- <td>xxx</td> -->
 	    	<td >SadTaler</td>
 	    	<td>xxx</td>
-	    	<td>16.752</td>
-        	<td>xxx</td>
-			<td>xxx</td>
+	    	<td>16.753</td>
+        	<td>0.665</td>
+			<td>68.120</td>
         	<!-- <td>xxx</td> -->
 		</tr >
 </table>
