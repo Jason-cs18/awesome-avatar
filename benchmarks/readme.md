@@ -105,12 +105,12 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
     	<tr>
 	    	<td ><center>laoliang_Wav2Lip.mp4<br><b>PSNR:</b> 31.444, <b>SSIM:</b> 0.939, <b>FID:</b> 19.192</center></td>
 	    	<td><center>luoxiang_Wav2Lip.mp4<br><b>PSNR:</b> 34.367, <b>SSIM:</b> 0.971, <b>FID:</b> 23.631</center></td>
-	    	<td><center>zuijiapaidang_Wav2Lip.mp4<br><b>PSNR:</b> TBD, <b>SSIM:</b> TBD, <b>FID:</b> TBD</center></td>
+	    	<td><center>zuijiapaidang_Wav2Lip.mp4<br><b>PSNR:</b> 20.364, <b>SSIM:</b> 0.783, <b>FID:</b> 49.04</center></td>
 		</tr >
 		<tr>
 	    	<td><iframe src="https://drive.google.com/file/d/1SKfceJZ_142bETjqc-FyCtem-SSFlWI4/preview"></iframe></td>
 	    	<td><iframe src="https://drive.google.com/file/d/15Dt0-5rRbWiYDW4GuzfZGxK8ndjk2MOy/preview"></iframe></td>
-        	<td>TBD</td>
+        	<td><iframe src="https://drive.google.com/file/d/12iFMIexJkpG9dDmatfFD9yd-LG-bk1dw/preview"></td>
 		</tr >
     </tr >
 </table>
@@ -169,9 +169,9 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 		<tr>
 	    	<td >Wav2Lip</td>
 	    	<td>xxx</td>
-	    	<td>xxx</td>
-        	<td>xxx</td>
-			<td>xxx</td>
+	    	<td>33.532</td>
+        	<td>0.952</td>
+			<td>19.685</td>
         	<!-- <td>xxx</td> -->
 	    	<td >Wav2Lip</td>
 	    	<td>xxx</td>
