@@ -70,11 +70,11 @@ In this benchmark, we collect 3 videos for English speakers and 3 videos for Chi
 
 ### Benchmark
 To measure the performance of Wav2Lip and SadTalker, we run them on all videos and testing with the following metrics: 
-- **Sync**: The confidence score from SyncNet (lip-sync).
-- **PSNR**: Peak Signal-to-Noise Ratio (image quality).
-- **SSIM**: Structural similarity for image (image quality).
-- **FID**: Frchet Inception Distance (image quality).
-- **IS**: Inception score (image quality).
+- **Sync**: The confidence score from SyncNet (lip-sync);
+- **PSNR**: Peak signal-to-noise ratio (identity-preserving);
+- **SSIM**: Structural similarity for image (identity-preserving);
+- **FID**: Frchet inception distance (image quality);
+- **IS**: Inception score (image quality);
 
 ### Qualitative Results for One-shot Pipelines
 
@@ -108,7 +108,7 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 	<tr>
 	    <th colspan="3"><center>English Speakers</center></th>
     	<tr>
-	    	<td >obama1_SadTalker.mp4</td>
+	    	<td >obama1_SadTalker.mp4<br><b>PSNR:</b> 20.587, <b>SSIM:</b> 0.754</td>
 	    	<td>may_SadTalker.mp4</td>
         	<td>macron_SadTalker.mp4</td>
 		</tr >
@@ -129,6 +129,9 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 </table>
 
 ### Quantitative Results for One-shot Pipelines
+
+
+
 <table>
 	<tr>
 	    <th colspan="6"><center>English Speakers</center></th> <th colspan="6"><center>Chinese Speakers</center></th>
