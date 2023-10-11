@@ -150,20 +150,20 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 
 <table>
 	<tr>
-	    <th colspan="6"><center>English Speakers</center></th> <th colspan="6"><center>Chinese Speakers</center></th>
+	    <th colspan="5"><center>English Speakers</center></th> <th colspan="5"><center>Chinese Speakers</center></th>
     	<tr>
 	    	<td >Pipeline</td>
 	    	<td>Sync↑</td>
 	    	<td>PSNR↑</td>
         	<td>SSIM↑</td>
 			<td>FID↓</td>
-        	<td>IS↑</td>
+        	<!-- <td>IS↑</td> -->
 			<td >Pipeline</td>
 	    	<td>Sync↑</td>
 	    	<td>PSNR↑</td>
         	<td>SSIM↓</td>
 			<td>FID↓</td>
-        	<td>IS↑</td>
+        	<!-- <td>IS↑</td> -->
 		</tr >
     </tr >
 		<tr>
@@ -172,27 +172,27 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 	    	<td>xxx</td>
         	<td>xxx</td>
 			<td>xxx</td>
-        	<td>xxx</td>
+        	<!-- <td>xxx</td> -->
 	    	<td >Wav2Lip</td>
 	    	<td>xxx</td>
 	    	<td>xxx</td>
         	<td>xxx</td>
 			<td>xxx</td>
-        	<td>xxx</td>
+        	<!-- <td>xxx</td> -->
 		</tr >
 		<tr>
 	    	<td >SadTalker</td>
 	    	<td>xxx</td>
-	    	<td>xxx</td>
-        	<td>xxx</td>
+	    	<td>19.509</td>
+        	<td>0.665</td>
 			<td>xxx</td>
-        	<td>xxx</td>
+        	<!-- <td>xxx</td> -->
 	    	<td >SadTaler</td>
 	    	<td>xxx</td>
-	    	<td>xxx</td>
+	    	<td>16.752</td>
         	<td>xxx</td>
 			<td>xxx</td>
-        	<td>xxx</td>
+        	<!-- <td>xxx</td> -->
 		</tr >
 </table>
 
