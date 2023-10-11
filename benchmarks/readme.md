@@ -77,9 +77,10 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 - **IS**: Inception score (image quality);
 
 ### Implementation (off-the-shelf tools)
-1. Sync: https://github.com/joonson/syncnet_python
-2. PSNR, SSIM: https://github.com/slhck/ffmpeg-quality-metrics
-3. FID, IS: https://github.com/toshas/torch-fidelity
+1. Sync: [syncnet_python](https://github.com/joonson/syncnet_python) ![Github stars](https://img.shields.io/github/stars/joonson/syncnet_python.svg) 
+2. PSNR, SSIM: [ffmpeg-quality-metrics](https://github.com/slhck/ffmpeg-quality-metrics) ![Github stars](https://img.shields.io/github/stars/slhck/ffmpeg-quality-metrics.svg) 
+3. FID, IS: [torch-fidelity](https://github.com/toshas/torch-fidelity) ![Github stars](https://img.shields.io/github/stars/toshas/torch-fidelity.svg)  
+
 
 ### Qualitative Results for One-shot Pipelines
 
