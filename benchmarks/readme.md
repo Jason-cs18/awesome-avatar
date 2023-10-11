@@ -164,8 +164,6 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
         	<td>SSIM↓</td>
 			<td>FID↓</td>
 		</tr >
-    </tr >
-	<tr>
 		<tr>
 	    	<td >Wav2Lip</td>
 	    	<td>xxx</td>
@@ -210,7 +208,6 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 	    	<td >marcon_GeneFace.mp4</td>
 	    	<td>macron_ER-NeRF.mp4</td>
 		</tr >
-    </tr >
     <tr>
 	    <th colspan="2"><center>Chinese Speakers</center></th>
     	<tr>
@@ -239,7 +236,6 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 			<td>FID↓</td>
         	<td>IS↑</td>
 		</tr >
-    </tr >
 		<tr>
 	    	<td >GeneFace</td>
 	    	<td>xxx</td>
