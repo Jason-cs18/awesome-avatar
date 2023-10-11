@@ -114,7 +114,7 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 	<tr>
 	    <th colspan="3"><center>English Speakers</center></th>
     	<tr>
-	    	<td ><center>obama1_SadTalker.mp4<br><b>PSNR:</b> 20.587, <b>SSIM:</b> 0.754</center></td>
+	    	<td ><center>obama1_SadTalker.mp4<br><b>PSNR:</b> 20.587, <b>SSIM:</b> 0.754, <b>SSIM:</b> 0.754</center></td>
 	    	<td><center>may_SadTalker.mp4</center></td>
         	<td><center>macron_SadTalker.mp4</center></td>
 		</tr >
