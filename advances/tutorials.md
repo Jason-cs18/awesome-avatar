@@ -30,6 +30,10 @@
 - Conference: CVPR'23 (June 18, 2023);
 - Organizers: [Hila Chefer @ Tel Aviv University](https://hila-chefer.github.io/) and [Sayak Paul @ Google Resaearch & Hugging Face](https://sayak.dev/);
 - Website: https://all-things-vits.github.io/atv/;
+### Vision Transformer: More is different
+- Conference: CVPR'23 (June 18, 2023);
+- Organizers: [Dacheng Tao @ University of Sydney](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en), [Qiming Zhang @ University of Sydney](https://scholar.google.com/citations?user=f8rAZ7MAAAAJ&hl=zh-CN), [Yufei Xu](https://scholar.google.com/citations?user=hlYWxX8AAAAJ&hl=zh-CN), and [Jing Zhang @ Renmin University of China](https://xiaojingzi.github.io/);
+- Website: https://cvpr2023.thecvf.com/virtual/2023/tutorial/18572;
 
 ## Talks
 1. [Interpreting Deep Generative Models
