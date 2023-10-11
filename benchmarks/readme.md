@@ -129,6 +129,9 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
         	<td><iframe src="https://drive.google.com/file/d/1y8NmIkXmgCXYKXxJKAEhYwjsh1LSiTiq/preview"></iframe></td>
 		</tr >
     </tr >
+</table>
+
+<table>
     <tr>
 	    <th colspan="3"><center>Chinese Speakers</center></th>
     	<tr>
