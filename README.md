@@ -59,7 +59,9 @@ Example: [Conference'year] [Title](https://github.com/Jason-cs18/awesome-avatar)
 - [ICLR 2023] [GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis](https://arxiv.org/abs/2301.13430), Zhejiang University, [ProjectPage](https://geneface.github.io/), [Code](https://github.com/yerfor/GeneFace) ![Github stars](https://img.shields.io/github/stars/yerfor/GeneFace.svg) ![Github forks](https://img.shields.io/github/forks/yerfor/GeneFace.svg)
 - [ICCV 2023] [Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Efficient_Region-Aware_Neural_Radiance_Fields_for_High-Fidelity_Talking_Portrait_Synthesis_ICCV_2023_paper.html), Beihang University, [ProjectPage](https://fictionarry.github.io/ER-NeRF/), [Code](https://github.com/Fictionarry/ER-NeRF) ![Github stars](https://img.shields.io/github/stars/Fictionarry/ER-NeRF.svg) ![Github forks](https://img.shields.io/github/forks/Fictionarry/ER-NeRF.svg)
 - [arXiv 2023] [GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation](https://arxiv.org/abs/2305.00787), Zhejiang University
+
 ### Talking-body synthesis
+
 #### Co-speech gesture synthesis
 - [SIGGRAPH Asia 2020] [Gesture Generation from Trimodal Context](https://arxiv.org/abs/2009.02119), Korea Advanced Institute of Science and Technology (KAIST), [Code](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context) ![Github stars](https://img.shields.io/github/stars/ai4r/Gesture-Generation-from-Trimodal-Context.svg) ![Github forks](https://img.shields.io/github/forks/ai4r/Gesture-Generation-from-Trimodal-Context.svg)
 - [ICCV 2021] [Speech Drives Templates: Co-Speech Gesture Synthesis with Learned Templates](https://openaccess.thecvf.com/content/ICCV2021/papers/Qian_Speech_Drives_Templates_Co-Speech_Gesture_Synthesis_With_Learned_Templates_ICCV_2021_paper.pdf), ShanghaiTech University, [ProjectPage](https://shenhanqian.github.io/sdt), [Code](https://github.com/ShenhanQian/SpeechDrivesTemplates) ![Github stars](https://img.shields.io/github/stars/ShenhanQian/SpeechDrivesTemplates.svg) ![Github forks](https://img.shields.io/github/forks/ShenhanQian/SpeechDrivesTemplates.svg)
@@ -69,7 +71,9 @@ Example: [Conference'year] [Title](https://github.com/Jason-cs18/awesome-avatar)
 #### Pose2image
 - [NeurIPS 2018] [Video-to-Video Synthesis](https://github.com/NVIDIA/vid2vid), NVIDIA, [ProjectPage](https://tcwang0509.github.io/vid2vid/), [Code](https://github.com/NVIDIA/vid2vid) ![Github stars](https://img.shields.io/github/stars/NVIDIA/vid2vid.svg) ![Github forks](https://img.shields.io/github/forks/NVIDIA/vid2vid.svg)
 - [ICCV 2019] [Everybody Dance Now](https://github.com/carolineec/EverybodyDanceNow), UC Berkeley, [ProjectPage](https://carolineec.github.io/everybody_dance_now/), [Code](https://github.com/carolineec/EverybodyDanceNow) ![Github stars](https://img.shields.io/github/stars/carolineec/EverybodyDanceNow.svg) ![Github forks](https://img.shields.io/github/forks/carolineec/EverybodyDanceNow.svg)
+
 ## Datasets
+
 ### Talking-face
 <!-- ||||||||
 |-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -217,7 +221,9 @@ Example: [Conference'year] [Title](https://github.com/Jason-cs18/awesome-avatar)
 
 ### Talking-body
 TBD
+
 ## Metrics
+
 ### Talking-face
 <table>
 	<tr>
@@ -333,6 +339,7 @@ TBD
 
 ### Talking-body
 TBD
+
 ## Toolbox
 1. A general toolbox for AIGC, including common metrics and models https://github.com/open-mmlab/mmagic
 2. face3d: Python tools for processing 3D face https://github.com/yfeng95/face3d
@@ -342,6 +349,7 @@ TBD
 6. OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation https://github.com/CMU-Perceptual-Computing-Lab/openpose
 7. GFPGAN: Practical Algorithm for Real-world Face Restoration https://github.com/TencentARC/GFPGAN
 8. CodeFormer: Robust Blind Face Restoration https://github.com/sczhou/CodeFormer
+
 ## Related Links
 If you are interested in avatar and digital human, we would also like to recommend you to check out other related collections:
 - awesome digital human https://github.com/weihaox/awesome-digital-human

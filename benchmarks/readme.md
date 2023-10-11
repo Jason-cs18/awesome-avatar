@@ -250,7 +250,7 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 		</tr >
 </table>
 
-### External Links
+## External Links
 1. [Extract Frames using FFmpeg: A Comprehensive Guide](https://ottverse.com/extract-frames-using-ffmpeg-a-comprehensive-guide/)
 2. [Whisper Web: ML-powered speech recognition directly in your browser](https://huggingface.co/spaces/Xenova/whisper-web)
 3. [moviepy.video.fx.all.crop](https://zulko.github.io/moviepy/ref/videofx/moviepy.video.fx.all.crop.html)
