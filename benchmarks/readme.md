@@ -31,12 +31,12 @@ In this benchmark, we collect 3 videos for English speakers and 3 videos for Chi
 | ├── [175K] luoxiang.png
 | ├── [204K] laoliang.png
 ├── reference_videos
-│ ├── [56M] obama1_english.mp4, 03:38.16, 450x450, 46 sentences
-│ ├── [96M] may_english.mp4, 04:02.97, 512x512, 35 sentences
-│ ├── [146M] macron_english.mp4, 09:30.94, 512x512, 49 sentences
-│ ├── [13M] laoliang_chinese.mp4, 04:59.00, 410x380, 40 sentences
-│ ├── [14M] luoxiang_chinese.mp4, 04:40.01, 350x500, 32 sentences
-│ ├── [28M] zuijiapaidang_chinese.mp4, 09:41.98, 460x450, 85 sentences
+│ ├── [56M] obama1_english.mp4, 03:38.16, 25fps, 450x450, 46 sentences
+│ ├── [96M] may_english.mp4, 04:02.97, 25fps, 512x512, 35 sentences
+│ ├── [146M] macron_english.mp4, 00:03:31.92, 25fps, 512x512, 49 sentences
+│ ├── [13M] laoliang_chinese.mp4, 00:00:49.85, 25fps, 410x380, 40 sentences
+│ ├── [14M] luoxiang_chinese.mp4, 04:40.01, 25fps, 350x500, 32 sentences
+│ ├── [28M] zuijiapaidang_chinese.mp4, 09:41.98, 30fps, 460x450, 85 sentences
 ```
 
 <table>
