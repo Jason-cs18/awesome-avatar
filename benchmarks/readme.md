@@ -191,7 +191,7 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 			<td>68.120</td>
         	<!-- <td>xxx</td> -->
 		</tr >
-	</tr>
+	</tr >
 </table>
 
 
