@@ -110,8 +110,7 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 		<tr>
 	    	<td><iframe src="https://drive.google.com/file/d/1SKfceJZ_142bETjqc-FyCtem-SSFlWI4/preview"></iframe></td>
 	    	<td><iframe src="https://drive.google.com/file/d/15Dt0-5rRbWiYDW4GuzfZGxK8ndjk2MOy/preview"></iframe></td>
-        	<td><iframe src="https://drive.google.com/file/d/12iFMIexJkpG9dDmatfFD9yd-LG-bk1dw/preview"></td>
-        	<td><iframe src="https://drive.google.com/file/d/1m8itAbvVVi5kx67_00mUo7vpTGs0gwpw/preview"></iframe></td>
+        	<td><iframe src="https://drive.google.com/file/d/12iFMIexJkpG9dDmatfFD9yd-LG-bk1dw/preview"></iframe></td>
 		</tr >
     </tr >
 </table>
