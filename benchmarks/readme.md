@@ -74,7 +74,6 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 - **PSNR↑**: Peak signal-to-noise ratio (identity-preserving);
 - **SSIM↑**: Structural similarity for image (identity-preserving);
 - **FID↓**: Frchet inception distance (image quality);
-- ~~**IS**: Inception score (image quality);~~
 
 ### Implementation (off-the-shelf tools)
 1. Sync: [syncnet_python](https://github.com/joonson/syncnet_python) ![Github stars](https://img.shields.io/github/stars/joonson/syncnet_python.svg) 
@@ -142,7 +141,7 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 		<tr>
 	    	<td><iframe src="https://drive.google.com/file/d/1i5fu_iYkg98a6vRvPw7tg8Z2mRvp4PV3/preview"></iframe></td>
 	    	<td><iframe src="https://drive.google.com/file/d/1Ln5WBpa2PMWT0vDMfB0M_Una_o5j2QL3/preview"></iframe></td>
-        	<td><iframe src="https://drive.google.com/file/d/1m8itAbvVVi5kx67_00mUo7vpTGs0gwpw/preview"></td>
+        	<td><iframe src="https://drive.google.com/file/d/1m8itAbvVVi5kx67_00mUo7vpTGs0gwpw/preview"></iframe></td>
 		</tr >
     </tr >
 </table>
