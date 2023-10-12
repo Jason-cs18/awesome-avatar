@@ -83,6 +83,7 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
 
 ### Qualitative Results for One-shot Pipelines
 
+
 <table>
 	<tr>
 	    <th colspan="3"><center>English Speakers</center></th>
@@ -216,7 +217,9 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
     </tr >
 </table>
 
+
 ### Quantitative Results for Few-shot Pipelines
+
 
 <table>
 	<tr>
@@ -264,6 +267,7 @@ To measure the performance of Wav2Lip and SadTalker, we run them on all videos a
         	<td>xxx</td>
 		</tr >
 </table>
+
 
 ## External Links
 1. [Extract Frames using FFmpeg: A Comprehensive Guide](https://ottverse.com/extract-frames-using-ffmpeg-a-comprehensive-guide/)
