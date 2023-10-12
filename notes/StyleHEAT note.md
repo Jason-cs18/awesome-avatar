@@ -23,7 +23,7 @@ The authors designed Video-Driven , Autdio-driven Motion Generator and Feature C
 - Then,the selected feature map is warped by the motion fields, followed by the **calibration network** for rectifying feature distortions.
 - The refined feature map is then fed into the StyleGAN for the final face generation.
 
-![Untitled](Untitled.png)
+![Style](https://github.com/SuperGoodGame/awesome-avatar/blob/main/assets/StyleHEAT.png)
 
 **Results:** 
 
