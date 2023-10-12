@@ -1,4 +1,4 @@
-# StyleHEAT note
+# StyleHEAT
 
 ## StyleHEAT
 
