@@ -288,7 +288,7 @@ TBD
 	    <td><a href="https://github.com/open-mmlab/mmagic/blob/a2135e11f3d66c1a2828c71221ed5e5699ecd919/docs/en/user_guides/metrics.md">mmagic</a></td>
 	</tr >
     <tr>
-	    <td >SSIM&#8595;</td>
+	    <td >SSIM&#8593;</td>
 	    <td>Structural similarity for image</td>
 	    <td><a href="https://github.com/open-mmlab/mmagic/blob/a2135e11f3d66c1a2828c71221ed5e5699ecd919/docs/en/user_guides/metrics.md">mmagic</a></td>
 	</tr >
