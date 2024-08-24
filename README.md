@@ -5,7 +5,7 @@ This is a repository for organizing papers, codes and other resources related to
 If you have any suggestions (missing papers, new papers, key researchers or typos), please feel free to edit and pull a request.
 
 #### News
-- 2024.08.24 add works about full-body avatar synthesis
+- **2024.08.24**: add works about full-body avatar synthesis
 
 #### TO DO LIST
 
