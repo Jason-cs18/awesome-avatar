@@ -52,7 +52,7 @@ Neural Head Avatar arXiv'23](https://research.nvidia.com/labs/lpr/one-shot-avata
 |SIGGRAPH 2023|[AvatarReX: Real-time Expressive Full-body Avatars](https://liuyebin.com/AvatarRex/)|Tsinghua University|[Dataset](https://github.com/lizhe00/AnimatableGaussians/blob/master/AVATARREX_DATASET.md)|dataset|
 |arXiv 2024|[A Survey on 3D Human Avatar Modeling - From Reconstruction to Generation](https://arxiv.org/pdf/2406.04253 )|The University of Hong Kong ||survey|
 |arXiv 2024|[From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations](https://people.eecs.berkeley.edu/~evonne_ng/projects/audio2photoreal/static/CCA.pdf)|Meta Reality Labs Research|[Code](https://github.com/facebookresearch/audio2photoreal/) ![Github stars](https://img.shields.io/github/stars/facebookresearch/audio2photoreal.svg) ![Github forks](https://img.shields.io/github/forks/facebookresearch/audio2photoreal.svg)|conversational avatar|
-|CVPR 2024|[Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling](https://github.com/lizhe00/AnimatableGaussians?tab=readme-ov-file)|Tsinghua Univserity|[Code](https://github.com/lizhe00/AnimatableGaussians?tab=readme-ov-file)||
+|CVPR 2024|[Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling](https://github.com/lizhe00/AnimatableGaussians?tab=readme-ov-file)|Tsinghua Univserity|[Code](https://github.com/lizhe00/AnimatableGaussians?tab=readme-ov-file) ![Github stars](https://img.shields.io/github/stars/lizhe00/AnimatableGaussians.svg) ![Github forks](https://img.shields.io/github/forks/lizhe00/AnimatableGaussians.svg)||
 
 
 ### 2D talking-face synthesis
