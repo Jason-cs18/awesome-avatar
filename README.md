@@ -53,6 +53,7 @@ Neural Head Avatar arXiv'23](https://research.nvidia.com/labs/lpr/one-shot-avata
 |arXiv 2024|[A Survey on 3D Human Avatar Modeling - From Reconstruction to Generation](https://arxiv.org/pdf/2406.04253 )|The University of Hong Kong ||survey|
 |arXiv 2024|[From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations](https://people.eecs.berkeley.edu/~evonne_ng/projects/audio2photoreal/static/CCA.pdf)|Meta Reality Labs Research|[Code](https://github.com/facebookresearch/audio2photoreal/) ![Github stars](https://img.shields.io/github/stars/facebookresearch/audio2photoreal.svg) ![Github forks](https://img.shields.io/github/forks/facebookresearch/audio2photoreal.svg)|conversational avatar|
 |CVPR 2024|[Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling](https://github.com/lizhe00/AnimatableGaussians?tab=readme-ov-file)|Tsinghua Univserity|[Code](https://github.com/lizhe00/AnimatableGaussians?tab=readme-ov-file) ![Github stars](https://img.shields.io/github/stars/lizhe00/AnimatableGaussians.svg) ![Github forks](https://img.shields.io/github/forks/lizhe00/AnimatableGaussians.svg)||
+|CVPR 2024|[4K4D: Real-Time 4D View Synthesis at 4K Resolution](https://drive.google.com/file/d/1Y-C6ASIB8ofvcZkyZ_Vp-a2TtbiPw1Yx/view?usp=sharing)|Zhejiang University|[Code](https://github.com/zju3dv/4K4D) ![Github stars](https://img.shields.io/github/stars/zju3dv/4K4D.svg) ![Github forks](https://img.shields.io/github/forks/zju3dv/4K4D.svg)|real-time synthesis with 3DGS|
 
 
 ### 2D talking-face synthesis
