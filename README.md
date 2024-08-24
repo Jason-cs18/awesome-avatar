@@ -49,7 +49,7 @@ Neural Head Avatar arXiv'23](https://research.nvidia.com/labs/lpr/one-shot-avata
 
 ### 2D talking-face synthesis
 
-|Conference|Paper|Affiliation|Codebase|Training Code|Notes|
+|Conference|Paper|Affiliation|Codebase|Training|Notes|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |MM 2020|[Wav2Lip: Accurately Lip-sync Videos to Any Speech](https://arxiv.org/abs/2008.10010)|The International Institute of Islamic Thought (IIIT), India|[Code](https://github.com/Rudrabha/Wav2Lip) ![Github stars](https://img.shields.io/github/stars/Rudrabha/Wav2Lip.svg) ![Github forks](https://img.shields.io/github/forks/Rudrabha/Wav2Lip.svg)|✅|most accurate lip-sync model|
 
