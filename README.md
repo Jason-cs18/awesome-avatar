@@ -5,8 +5,10 @@ This is a repository for organizing papers, codes and other resources related to
 If you have any suggestions (missing papers, new papers, key researchers or typos), please feel free to edit and pull a request.
 
 #### News
-- **2024.08.24**: add works about full-body avatar synthesis
+- **2024.08.24**: add backgrounds for image/video generations
 - **2024.08.24**: re-organize paper list with table formating
+- **2024.08.24**: add works about full-body avatar synthesis
+
 
 #### TO DO LIST
 
@@ -19,6 +21,11 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - [x] Add project page if have
 - [x] Datasets and metrics
 - [x] Related links
+
+## Image generation
+|Model|Paper|Blog|Codebase|Affiliation|Note|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|StyleGANv3|[Alias-Free Generative Adversarial Networks](https://nvlabs.github.io/stylegan3/)|[The Evolution of StyleGAN: Introduction](https://blog.paperspace.com/evolution-of-stylegan/)|[Code](https://github.com/NVlabs/stylegan3)|NVIDIA||
 
 ## Researchers and labs
 1. [NVIDIA Research](https://www.nvidia.com/en-us/research/)
@@ -372,6 +379,7 @@ Neural Head Avatar arXiv'23](https://research.nvidia.com/labs/lpr/one-shot-avata
 7. GFPGAN: Practical Algorithm for Real-world Face Restoration https://github.com/TencentARC/GFPGAN
 8. CodeFormer: Robust Blind Face Restoration https://github.com/sczhou/CodeFormer
 9. metahuman-stream: Real time interactive streaming digital human https://github.com/lipku/metahuman-stream
+10. EasyVolcap: a PyTorch library for accelerating neural volumetric video research https://github.com/zju3dv/EasyVolcap
 
 ## Related Links
 If you are interested in avatar and digital human, we would also like to recommend you to check out other related collections:
