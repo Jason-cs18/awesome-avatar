@@ -6,6 +6,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 #### News
 - **2024.08.24**: add works about full-body avatar synthesis
+- **2024.08.24**: re-organize paper list with table formating
 
 #### TO DO LIST
 
@@ -42,7 +43,6 @@ Neural Head Avatar arXiv'23](https://research.nvidia.com/labs/lpr/one-shot-avata
     - 3D face models (*e.g.,* 3DMM): [FLAME SIGGRAPH Asia 2017](https://flame.is.tue.mpg.de/);
 
 ## Papers
-Example: [Conference'year] [Title](https://github.com/Jason-cs18/awesome-avatar), First-author Affiliation, [ProjectPage](https://github.com/Jason-cs18/awesome-avatar), [Code](https://github.com/Jason-cs18/awesome-avatar)
 
 ### Avatar (face+body)
 [arXiv 2024.01] [From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations](https://people.eecs.berkeley.edu/~evonne_ng/projects/audio2photoreal/static/CCA.pdf), Meta Reality Labs Research, [ProjectPage](https://people.eecs.berkeley.edu/~evonne_ng/projects/audio2photoreal/), [Code](https://github.com/facebookresearch/audio2photoreal/) ![Github stars](https://img.shields.io/github/stars/facebookresearch/audio2photoreal.svg) ![Github forks](https://img.shields.io/github/forks/facebookresearch/audio2photoreal.svg)
