@@ -45,7 +45,14 @@ Neural Head Avatar arXiv'23](https://research.nvidia.com/labs/lpr/one-shot-avata
 ## Papers
 
 ### Avatar (face+body)
-[arXiv 2024.01] [From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations](https://people.eecs.berkeley.edu/~evonne_ng/projects/audio2photoreal/static/CCA.pdf), Meta Reality Labs Research, [ProjectPage](https://people.eecs.berkeley.edu/~evonne_ng/projects/audio2photoreal/), [Code](https://github.com/facebookresearch/audio2photoreal/) ![Github stars](https://img.shields.io/github/stars/facebookresearch/audio2photoreal.svg) ![Github forks](https://img.shields.io/github/forks/facebookresearch/audio2photoreal.svg)
+|Conference|Paper|Affiliation|Codebase|Notes|
+|:---:|:---:|:---:|:---:|:---:|
+|CVPR 2021|[Function4D: Real-time Human Volumetric Capture from Very Sparse Consumer RGBD Sensors](https://www.liuyebin.com/Function4D/Function4D.html)|Tsinghua University|[Dataset](https://github.com/ytrock/THuman2.0-Dataset)|dataset|
+|arXiv 2024|[A Survey on 3D Human Avatar Modeling - From Reconstruction to Generation](https://arxiv.org/pdf/2406.04253 )|The University of Hong Kong ||survey|
+|arXiv 2024|[From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations](https://people.eecs.berkeley.edu/~evonne_ng/projects/audio2photoreal/static/CCA.pdf)|Meta Reality Labs Research|[Code](https://github.com/facebookresearch/audio2photoreal/) ![Github stars](https://img.shields.io/github/stars/facebookresearch/audio2photoreal.svg) ![Github forks](https://img.shields.io/github/forks/facebookresearch/audio2photoreal.svg)||
+
+
+[arXiv 2024] [From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations](https://people.eecs.berkeley.edu/~evonne_ng/projects/audio2photoreal/static/CCA.pdf), Meta Reality Labs Research, [ProjectPage](https://people.eecs.berkeley.edu/~evonne_ng/projects/audio2photoreal/), [Code](https://github.com/facebookresearch/audio2photoreal/) ![Github stars](https://img.shields.io/github/stars/facebookresearch/audio2photoreal.svg) ![Github forks](https://img.shields.io/github/forks/facebookresearch/audio2photoreal.svg)
 
 ### 2D talking-face synthesis
 
