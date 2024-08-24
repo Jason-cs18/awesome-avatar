@@ -22,11 +22,6 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - [x] Datasets and metrics
 - [x] Related links
 
-## Image generation
-|Model|Paper|Blog|Codebase|Affiliation|Note|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|StyleGANv3|[Alias-Free Generative Adversarial Networks](https://nvlabs.github.io/stylegan3/)|[The Evolution of StyleGAN: Introduction](https://blog.paperspace.com/evolution-of-stylegan/)|[Code](https://github.com/NVlabs/stylegan3)|NVIDIA||
-
 ## Researchers and labs
 1. [NVIDIA Research](https://www.nvidia.com/en-us/research/)
    - Neural rendering models for human generation: [vid2vid NeurIPS'18](https://tcwang0509.github.io/vid2vid/), [fs-vid2vid NeurIPS'19](https://nvlabs.github.io/few-shot-vid2vid/), [EG3D CVPR'22](https://github.com/NVlabs/eg3d);
@@ -50,6 +45,12 @@ Neural Head Avatar arXiv'23](https://research.nvidia.com/labs/lpr/one-shot-avata
     - 3D face models (*e.g.,* 3DMM): [FLAME SIGGRAPH Asia 2017](https://flame.is.tue.mpg.de/);
 
 ## Papers
+
+### Image and video generation
+|Model|Paper|Blog|Codebase|Note|
+|:---:|:---:|:---:|:---:|:---:|
+|StyleGANv3|[Alias-Free Generative Adversarial Networks](https://nvlabs.github.io/stylegan3/), NVIDIA|[The Evolution of StyleGAN: Introduction](https://blog.paperspace.com/evolution-of-stylegan/)|[Code](https://github.com/NVlabs/stylegan3)|high fidlity face generation|
+|NeRF|[NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934), UC Berkeley|[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)|[Code](https://github.com/yenchenlin/nerf-pytorch)|3D synthesis via volume rendering|
 
 ### Avatar (face+body)
 |Conference|Paper|Affiliation|Codebase|Notes|
