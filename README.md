@@ -57,7 +57,7 @@ Neural Head Avatar arXiv'23](https://research.nvidia.com/labs/lpr/one-shot-avata
 |NeRF|[NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934), UC Berkeley, ECCV 2020|[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)|[Code](https://github.com/yenchenlin/nerf-pytorch)|3D synthesis via volume rendering|
 |3DGS|[3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://arxiv.org/abs/2308.04079), Inria, SIGGRAPH 2023|[A Comprehensive Overview of Gaussian Splatting](https://towardsdatascience.com/a-comprehensive-overview-of-gaussian-splatting-e7d570081362)|[Code](https://github.com/graphdeco-inria/gaussian-splatting)|real-time 3d rendering|
 
-### Avatar (face+body)
+### 3D Avatar (face+body)
 |Conference|Paper|Affiliation|Codebase|Notes|
 |:---:|:---:|:---:|:---:|:---:|
 |CVPR 2021|[Function4D: Real-time Human Volumetric Capture from Very Sparse Consumer RGBD Sensors](https://www.liuyebin.com/Function4D/Function4D.html)|Tsinghua University|[Dataset](https://github.com/ytrock/THuman2.0-Dataset)||
@@ -86,6 +86,7 @@ Neural Head Avatar arXiv'23](https://research.nvidia.com/labs/lpr/one-shot-avata
 |arXiv 2024|[LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control](https://arxiv.org/abs/2407.03168)|Kuaishou Technology|[Code](https://github.com/KwaiVGI/LivePortrait) ![Github stars](https://img.shields.io/github/stars/KwaiVGI/LivePortrait.svg) ![Github forks](https://img.shields.io/github/forks/KwaiVGI/LivePortrait.svg) ||face reenactment with micro-expression|
 |arXiv 2024|[EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions](https://arxiv.org/abs/2407.08136)|Ant Group|[Code](https://github.com/BadToBest/EchoMimic) ![Github stars](https://img.shields.io/github/stars/BadToBest/EchoMimic.svg) ![Github forks](https://img.shields.io/github/forks/BadToBest/EchoMimic.svg)||accurate lip-sync on Chinese speakers, diffusion, `512*512`|
 |arXiv 2024|[Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation](https://arxiv.org/abs/2407.08136)|Fudan University|[Code](https://github.com/fudan-generative-vision/hallo), ![Github stars](https://img.shields.io/github/stars/fudan-generative-vision/hallo.svg) ![Github forks](https://img.shields.io/github/forks/fudan-generative-vision/hallo.svg)|✅|accurate lip-sync, diffusion, `512*512`|
+|[arXiv 2024]|[Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency](https://loopyavatar.github.io/)|Zhejiang University and ByteDance||||
 
 ### 3D talking-face synthesis
 |Conference|Paper|Affiliation|Codebase|Notes|
