@@ -399,6 +399,10 @@ Neural Head Avatar arXiv'23](https://research.nvidia.com/labs/lpr/one-shot-avata
 2. FireRedTTS, FireReadTeam https://github.com/FireRedTeam/FireRedTTS
 3. GPT-SoVITS https://github.com/RVC-Boss/GPT-SoVITS?tab=readme-ov-file
 
+### Speech to Speech (GPT4-o)
+1. Mini-Omni, Tsinghua University https://github.com/gpt-omni/mini-omni
+2. Speech To Speech, HuggingFace https://github.com/huggingface/speech-to-speech
+
 ## Related Links
 If you are interested in avatar and digital human, we would also like to recommend you to check out other related collections:
 - awesome digital human https://github.com/weihaox/awesome-digital-human
