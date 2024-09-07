@@ -389,6 +389,7 @@ Neural Head Avatar arXiv'23](https://research.nvidia.com/labs/lpr/one-shot-avata
 8. CodeFormer: Robust Blind Face Restoration https://github.com/sczhou/CodeFormer
 9. metahuman-stream: Real time interactive streaming digital human https://github.com/lipku/metahuman-stream
 10. EasyVolcap: a PyTorch library for accelerating neural volumetric video research https://github.com/zju3dv/EasyVolcap
+11. 3D Model in gradio https://www.gradio.app/guides/how-to-use-3D-model-component
 
 ### Automatic Speech Recognition (ASR)
 1. BELLE-2/Belle-whisper-large-v3-zh https://huggingface.co/BELLE-2/Belle-whisper-large-v3-zh
