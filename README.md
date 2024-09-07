@@ -5,6 +5,7 @@ This is a repository for organizing papers, codes and other resources related to
 If you have any suggestions (missing papers, new papers, key researchers or typos), please feel free to edit and pull a request.
 
 #### News
+- **2024.09.07**: add TTS tool
 - **2024.08.24**: add backgrounds for image/video generations
 - **2024.08.24**: re-organize paper list with table formating
 - **2024.08.24**: add works about full-body avatar synthesis
@@ -388,6 +389,11 @@ Neural Head Avatar arXiv'23](https://research.nvidia.com/labs/lpr/one-shot-avata
 8. CodeFormer: Robust Blind Face Restoration https://github.com/sczhou/CodeFormer
 9. metahuman-stream: Real time interactive streaming digital human https://github.com/lipku/metahuman-stream
 10. EasyVolcap: a PyTorch library for accelerating neural volumetric video research https://github.com/zju3dv/EasyVolcap
+
+## TTS
+1. CosyVoice, Alibaba Tongyi SpeechTeam https://github.com/FunAudioLLM/CosyVoice 👍👍
+2. FireRedTTS, FireReadTeam https://github.com/FireRedTeam/FireRedTTS
+3. GPT-SoVITS https://github.com/RVC-Boss/GPT-SoVITS?tab=readme-ov-file
 
 ## Related Links
 If you are interested in avatar and digital human, we would also like to recommend you to check out other related collections:
