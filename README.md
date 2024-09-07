@@ -390,7 +390,11 @@ Neural Head Avatar arXiv'23](https://research.nvidia.com/labs/lpr/one-shot-avata
 9. metahuman-stream: Real time interactive streaming digital human https://github.com/lipku/metahuman-stream
 10. EasyVolcap: a PyTorch library for accelerating neural volumetric video research https://github.com/zju3dv/EasyVolcap
 
-## TTS
+### Automatic Speech Recognition (ASR)
+1. BELLE-2/Belle-whisper-large-v3-zh https://huggingface.co/BELLE-2/Belle-whisper-large-v3-zh
+2. SenseVoice (multilingual) https://github.com/FunAudioLLM/SenseVoice 👍👍
+
+### Text to Speech (TTS)
 1. CosyVoice, Alibaba Tongyi SpeechTeam https://github.com/FunAudioLLM/CosyVoice 👍👍
 2. FireRedTTS, FireReadTeam https://github.com/FireRedTeam/FireRedTTS
 3. GPT-SoVITS https://github.com/RVC-Boss/GPT-SoVITS?tab=readme-ov-file
