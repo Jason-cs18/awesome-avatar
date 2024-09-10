@@ -114,7 +114,7 @@ Neural Head Avatar arXiv'23](https://research.nvidia.com/labs/lpr/one-shot-avata
 |Github repo|[MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising](https://github.com/TMElyralab/MuseV)|Tencent TMElyralab|[Code](https://github.com/TMElyralab/MuseV)![Github stars](https://img.shields.io/github/stars/TMElyralab/MuseV.svg)![Github forks](https://img.shields.io/github/forks/TMElyralab/MuseV.svg)||
 |Github repo|[MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation](https://github.com/TMElyralab/MusePose)|Tencent|[Code](https://github.com/TMElyralab/MusePose)![Github stars](https://img.shields.io/github/stars/TMElyralab/MusePose.svg)![Github forks](https://img.shields.io/github/forks/TMElyralab/MusePose.svg) ⭐||
 |arXiv 2024|[ControlNeXt: Powerful and Efficient Control for Image and Video Generation](https://pbihao.github.io/projects/controlnext/index.html)|The Chinese University of Hong Kong|[Code](https://github.com/dvlab-research/ControlNeXt)![Github stars](https://img.shields.io/github/stars/dvlab-research/ControlNeXt.svg)![Github forks](https://img.shields.io/github/forks/dvlab-research/ControlNeXt.svg)|stable video diffusion|
-|[arXiv 2024]|[CyberHost: Taming Audio-driven Avatar Diffusion Model with Region Codebook Attention](https://cyberhost.github.io/)|Zhejiang University and ByteDance|||
+|[arXiv 2024]|[CyberHost: Taming Audio-driven Avatar Diffusion Model with Region Codebook Attention](https://cyberhost.github.io/)|Zhejiang University and ByteDance||pre-trained on `200 hours` video data and more than `10k` unique identities|
 
 ## Datasets
 
