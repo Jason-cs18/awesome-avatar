@@ -51,6 +51,7 @@ Neural Head Avatar arXiv'23](https://research.nvidia.com/labs/lpr/one-shot-avata
 |Model|Paper|Blog|Codebase|Note|
 |:---:|:---:|:---:|:---:|:---:|
 |StyleGANv3|[Alias-Free Generative Adversarial Networks](https://nvlabs.github.io/stylegan3/), NVIDIA, NeurIPS 2021|[The Evolution of StyleGAN: Introduction](https://blog.paperspace.com/evolution-of-stylegan/)|[Code](https://github.com/NVlabs/stylegan3)|high fidlity face generation|
+|EG3D|[EG3D](https://nvlabs.github.io/eg3d/), NVIDIA, CVPR 2022||[Code](https://github.com/NVlabs/eg3d)|3D-aware GAN|
 |Stable Diffusion|[High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2112.10752), Heidelberg University, CVPR 2022|[What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)|[Code](https://github.com/CompVis/latent-diffusion)|diverse and high quality images|
 |Stable Video Diffusion|[Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets](https://arxiv.org/abs/2311.15127), Stability AI, arXiv 2023|[Diffusion Models for Video Generation](https://lilianweng.github.io/posts/2024-04-12-diffusion-video/)|[Code](https://github.com/Stability-AI/generative-models)||
 |DiT|[Scalable Diffusion Models with Transformers](https://arxiv.org/abs/2212.09748), Meta, ICCV 2023|[Diffusion Transformed](https://www.deeplearning.ai/the-batch/a-new-class-of-diffusion-models-based-on-the-transformer-architecture/)|[Code](https://github.com/facebookresearch/DiT)|magic behind OpenAI Sora|
